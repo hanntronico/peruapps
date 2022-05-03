@@ -1,0 +1,104 @@
+body {
+    background-image: url("../img/imagenCaja_files/GettyImages-1083913610_1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100%;
+    overflow: hidden;
+
+}
+
+.imagenCaja {
+    text-align: center;
+    padding: 50px;
+
+}
+
+.bienvenida {
+    text-align: center;
+    padding: 20px;
+    color: #152654;
+
+}
+
+.row {
+    display: grid;
+    grid-template-columns: auto auto;
+}
+
+.column {
+    grid-column: auto;
+    text-align: center;
+    padding: 37px;
+}
+
+.btn {
+    background: #fff;
+    padding: 15px;
+    border-radius: 13px;
+    width: 45%;
+    height: 62%;
+    cursor: pointer;
+    margin: 0 auto;
+    box-shadow: 12px 12px 12px gainsboro;
+
+}
+
+.btn .imagen {
+    width: 13%;
+    height: 26%;
+    background: #dbf1f1;
+    padding: 7%;
+    border-radius: 49px;
+    margin: 0 auto;
+
+}
+
+.btn a {
+    text-decoration: none;
+    color: #152654;
+    font-weight: 600;
+}
+
+.btn:hover {
+    background: #f3f3f3;
+}
+
+.img1 {
+    width: 77%;
+}
+
+.img2 {
+    padding: 5px;
+    width: 79%;
+}
+
+.info p {
+    width: 45%;
+    margin-left: 27%;
+}
+
+#col-1 {
+    margin: 0% -18% 0% 22%;
+}
+
+#col-2 {
+    margin: 0% 20% 0% -19%;
+}
+
+@media screen and (max-width: 768px) {
+    .btn {
+        width: 100%;
+        height: 75%;
+        padding-bottom: 0%;
+    }
+
+    .btn .imagen {
+        width: 30%;
+        height: 26%;
+    }
+}
+
+.info {
+    color: #22BBB6;
+}
