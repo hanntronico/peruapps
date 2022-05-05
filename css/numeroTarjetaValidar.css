@@ -1,0 +1,52 @@
+.inputTarjeta input {
+    padding: 2%;
+    width: 6%;
+    border: none;
+    border-radius: 12px;
+    margin: 0 1%;
+    box-shadow: 12px 12px 12px gainsboro;
+}
+
+.inputTarjeta div {
+    display: flex;
+    justify-content: center;
+    margin-top: 1%;
+}
+
+.cargando {
+    text-align: center;
+    margin-top: 2%;
+}
+
+.cargando i {
+    font-size: 100px;
+}
+
+.cargando h3 {
+    color: #75BEBC;
+}
+
+.btnTarjetas {
+    text-align: center;
+    padding: 5%;
+}
+
+.btnBotones {
+    text-align: center;
+}
+
+.btnBotones button {
+    width: 15%;
+    height: 15%;
+    padding: 1%;
+    margin: 1%;
+    font-size: 16px;
+    color: #152654;
+    border: 1px solid #152654;
+    border-radius: 15px;
+}
+
+.btnBotones .siguiente {
+    background-color: #152654;
+    color: #fff;
+}

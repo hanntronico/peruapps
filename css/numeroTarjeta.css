@@ -1,0 +1,20 @@
+.btnBotones-tarjeta {
+    text-align: center;
+    margin-top: 3%;
+}
+
+.btnBotones-tarjeta button {
+    width: 15%;
+    height: 15%;
+    padding: 1%;
+    margin: 1%;
+    font-size: 16px;
+    color: #152654;
+    border: 1px solid #152654;
+    border-radius: 15px;
+}
+
+.btnBotones-tarjeta .siguiente {
+    background-color: #152654;
+    color: #fff;
+}
