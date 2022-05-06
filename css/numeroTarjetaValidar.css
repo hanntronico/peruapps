@@ -24,6 +24,7 @@
 
 .cargando h3 {
     color: #75BEBC;
+    margin-bottom: 2%;
 }
 
 .btnTarjetas {
@@ -49,4 +50,9 @@
 .btnBotones .siguiente {
     background-color: #152654;
     color: #fff;
+}
+
+.cargando .bxl-flickr {
+    font-size: 390%;
+    margin-right: -1%;
 }

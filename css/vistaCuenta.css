@@ -1,0 +1,109 @@
+body {
+    background-color: #F1F1F3;
+}
+
+.imagenCaja {
+    text-align: center;
+    padding: 50px;
+
+}
+
+.salida {
+    margin: 3%;
+}
+
+.salida button {
+    width: 6%;
+    height: 70px;
+    padding: 1%;
+    float: right;
+    border: 3px solid #35b1b9;
+    border-radius: 34px;
+    background: none;
+
+}
+
+.salida i {
+    font-size: 250%;
+}
+
+.tipoCambio {
+    padding: 5%;
+    margin-left: 5%;
+}
+
+.tipoCambio p {
+    display: inline;
+    margin: 2%;
+    font-size: 22px;
+
+}
+
+.cambio {
+    font-weight: 600;
+}
+
+.compra {
+    color: #8DC664;
+}
+
+.venta {
+    color: #35B1B9;
+}
+
+.grid-container-cuentas {
+    display: grid;
+    grid-template-columns: auto auto;
+    margin-left: 11%;
+    color: #032655;
+}
+
+.grid-container-cuentas span {
+    font-size: xx-large;
+}
+
+.grid-container-cuentas button {
+    border: none;
+    background: none;
+}
+
+.col-2 button {
+    margin-left: 50%;
+    margin-top: 2%;
+    color: #032655;
+}
+
+.detalles {
+    margin-left: 11%;
+    width: 75%;
+    padding: 3%;
+    background-color: #FFFFFF;
+    border-radius: 15px;
+    border-left: 20px solid #36B1B8;
+    margin-bottom: 1%;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+table {
+    width: 100%;
+}
+
+table span {
+    color: #032655;
+}
+
+.ahorroC {
+    color: #032655;
+}
+
+table td {
+    font-size: 130%;
+}
+
+.titulo td {
+    font-weight: bold;
+}
+
+.td-green {
+    color: #35b1b9;
+}
