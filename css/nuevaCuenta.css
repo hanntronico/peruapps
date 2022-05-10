@@ -16,7 +16,7 @@ input[type=text] {
     border-radius: 9px;
     font-size: 20px;
     background-color: #fff;
-    background-image: url('/imagenCaja_files/credit-card-front-regular-24.png');
+    background-image: url('../imagenCaja_files/credit-card-front-regular-24.png');
     background-position: 10px 16px;
     background-repeat: no-repeat;
     padding: 18px 20px 14px 40px;

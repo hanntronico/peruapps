@@ -1,0 +1,74 @@
+.opciones {
+    display: flex;
+    justify-content: center;
+    margin-top: 3%;
+}
+
+select {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    -ms-appearance: none;
+    appearance: none;
+    outline: 0;
+    box-shadow: none;
+    border: 0 !important;
+    background: #fff;
+    background-image: none;
+    flex: 1;
+    padding: 9px 1.5em;
+    color: #152654;
+    cursor: pointer;
+    font-size: 18px;
+
+}
+
+select::-ms-expand {
+    display: none;
+}
+
+.select {
+    position: relative;
+    display: flex;
+    width: 42%;
+    height: 3em;
+    line-height: 3;
+    background: #fff;
+    overflow: hidden;
+    border-radius: 9px;
+}
+
+.select::after {
+    content: '\25BC';
+    position: absolute;
+    top: 0;
+    right: 0;
+    padding: 0 1em;
+    background: #fff;
+    cursor: pointer;
+    pointer-events: none;
+    transition: .25s all ease;
+}
+
+
+
+.clave {
+    display: flex;
+    justify-content: center;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.clave input[type=text] {
+    width: 42%;
+    box-sizing: border-box;
+    border: none;
+    border-radius: 9px;
+    font-size: 20px;
+    background-color: #fff;
+    background-image: url('../imagenCaja_files/lock-alt-regular-24.png');
+    background-position: 10px 16px;
+    background-repeat: no-repeat;
+    padding: 14px 0px 14px 45px;
+    transition: width 0.4s ease-in-out;
+    outline: none;
+}
