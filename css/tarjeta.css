@@ -10,7 +10,8 @@
 
 .mensajeTarjeta p {
     font-size: 170%;
-    color: #171443;
+    font-family: 'Open Sans', sans-serif;
+    color: #152654;
 }
 
 .btnTarjetas {
@@ -24,6 +25,7 @@
     padding: 1%;
     margin: 1%;
     font-size: 16px;
+    font-family: 'Open Sans', sans-serif;
     color: #152654;
     border: 1px solid #152654;
     border-radius: 15px;

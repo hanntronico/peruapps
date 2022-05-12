@@ -25,6 +25,7 @@ body {
 
 .salida i {
     font-size: 250%;
+    font-family: 'Open Sans', sans-serif;
 }
 
 .tipoCambio {
@@ -36,6 +37,7 @@ body {
     display: inline;
     margin: 2%;
     font-size: 22px;
+    font-family: 'Open Sans', sans-serif;
 
 }
 
@@ -55,7 +57,11 @@ body {
     display: grid;
     grid-template-columns: auto auto;
     margin-left: 11%;
-    color: #032655;
+    color: #152654;
+}
+
+.grid-container-cuentas h1 {
+    font-family: 'Open Sans', sans-serif;
 }
 
 .grid-container-cuentas span {
@@ -70,7 +76,7 @@ body {
 .col-2 button {
     margin-left: 50%;
     margin-top: 2%;
-    color: #032655;
+    color: #152654;
 }
 
 .detalles {
@@ -89,15 +95,17 @@ table {
 }
 
 table span {
-    color: #032655;
+    color: #152654;
 }
 
 .ahorroC {
-    color: #032655;
+    color: #152654;
 }
 
 table td {
     font-size: 130%;
+    font-family: 'Open Sans', sans-serif;
+
 }
 
 .titulo td {
