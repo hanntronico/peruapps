@@ -13,7 +13,7 @@ body {
     justify-content: center;
 }
 
-input[type=text] {
+.inputPrin input[type=text] {
     width: 24%;
     box-sizing: border-box;
     border: none;
