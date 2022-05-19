@@ -82,7 +82,6 @@
                 <hr class="linea">
             </div>
             <div class="tab-contenido">
-
                 <button class="tablink btn-1" onclick="openPage(event, 'limitemonto')" id="defaultOpen">
                     Limite de Montos
                 </button>
@@ -92,7 +91,6 @@
                 <button class="tablink btn-3" onclick="openPage(event, 'actulizadatos')">
                     Actualiza Datos
                 </button>
-
                 <div id="limitemonto" class="tabcontent">
                     <h3>
                         Los límites representan el monto máximo por día que puede usar el cliente
@@ -263,14 +261,8 @@
                             </tr>
                         </table>
                     </div>
-                    <div class="actualizar">
-                        <button class="btn-actualizar" id="actualizar">
-                            Actualizar
-                        </button>
-                    </div>
-                    <div id="myModal" class="modal">
 
-                        <!-- Modal content -->
+                    <div id="myModal" class="modal">
                         <div class="modal-content">
                             <div class="infoIcon">
                                 <i class='bx bx-info-circle' style='color:#35b2b8'></i>
@@ -285,15 +277,145 @@
 
                     </div>
                 </div>
-
                 <div id="prendeapaga" class="tabcontent">
-                    <h3>Prende / Apaga Operaciones</h3>
-                    <p>Some news this fine day!</p>
+                    <div class="table-2">
+                        <table>
+                            <tr>
+                                <td class="tdTitulo">
+                                    <h1>Giros</h1>
+                                </td>
+                                <td>
+                                </td>
+                                <td class="tdActivar">
+                                    <p>Activar</p>
+                                </td>
+                                <td class="tdSwitch">
+                                    <p>No</p>
+                                    <label class="switch">
+                                        <input type="checkbox" checked>
+                                        <span class="slider round"></span>
+                                    </label>
+                                    <p>Si</p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="tdTitulo">
+                                    <p>
+                                        Compras Nacionales POS
+                                    </p>
+                                </td>
+                                <td>
+                                    <i class='bx bx-question-mark'></i>
+                                </td>
+                                <td class="tdActivar">
+                                    <p>Activar</p>
+                                </td>
+                                <td class="tdSwitch">
+                                    <p>No</p>
+                                    <label class="switch">
+                                        <input type="checkbox" checked>
+                                        <span class="slider round"></span>
+                                    </label>
+                                    <p>Si</p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="tdTitulo">
+                                    <p>
+                                        Compras por internet
+                                    </p>
+                                </td>
+                                <td>
+                                    <i class='bx bx-question-mark'></i>
+                                </td>
+                                <td class="tdActivar">
+                                    <p>Activar</p>
+                                </td>
+                                <td class="tdSwitch">
+                                    <p>No</p>
+                                    <label class="switch">
+                                        <input type="checkbox" checked>
+                                        <span class="slider round"></span>
+                                    </label>
+                                    <p>Si</p>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td class="tdTitulo">
+                                    <p>
+                                        Compras en el exterior
+                                    </p>
+                                </td>
+                                <td>
+                                    <i class='bx bx-question-mark'></i>
+                                </td>
+                                <td class="tdActivar">
+                                    <p>Activar</p>
+                                </td>
+                                <td class="tdSwitch">
+                                    <p>No</p>
+                                    <label class="switch">
+                                        <input type="checkbox" checked>
+                                        <span class="slider round"></span>
+                                    </label>
+                                    <p>Si</p>
+                                </td>
+                            </tr>
+                        </table>
+                    </div>
+                    <div class="correo">
+                        <h3>
+                            Correo electrónico
+                        </h3>
+                        <input type="email" name="" id="" value="yenifersantiago@gmail.com">
+                        <div class="labels">
+                            <label class="container">
+                                <input type="radio" name="radio">
+                                <span class="checkmark"></span>
+                            </label>
+                            <label class="labelAcepto" for="">
+                                Estoy de acuerdo con la configuración de mi tarjeta
+                            </label>
+                        </div>
+                    </div>
+                    <div id="myModal-cancelar" class="modal">
+                        <div class="modal-content">
+                            <div class="infoIcon">
+                                <i class='bx bx-info-circle' style='color:#35b2b8'></i>
+                            </div>
+                            <h3>
+                                "Estas seguro de cancelar la operación"
+                            </h3>
+                            <div class="botones">
+                                <button class="cancelar">Cancelar </button>
+                                <button class="aceptar">Aceptar </button>
+                            </div>
+                        </div>
+                    </div>
+                    <div id="myModal-prblemasConexion" class="modal">
+                        <div class="modal-content">
+                            <div class="infoIcon">
+                                <i class='bx bx-info-circle' style='color:#35b2b8'></i>
+                            </div>
+                            <h3>
+                                "Se tiene problemas en la conexión, por favor
+                                vuelva a intentarlo"
+                            </h3>
+                            <div class="botones">
+                                <button class="cancelar">Cancelar </button>
+                                <button class="aceptar">Aceptar </button>
+                            </div>
+                        </div>
+                    </div>
                 </div>
-
                 <div id="actulizadatos" class="tabcontent">
                     <h3>Actuizar datos</h3>
                     <p>Get in touch, or swing by for a cup of coffee.</p>
+                </div>
+                <div class="actualizar">
+                    <button class="btn-actualizar" id="actualizar">
+                        Actualizar
+                    </button>
                 </div>
             </div>
 

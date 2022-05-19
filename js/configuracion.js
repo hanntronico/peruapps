@@ -1,7 +1,4 @@
 
-//  document.querySelector('button.tablink').addEventListener('click', function() {
-//      this.classList.add('tab-button-active');
-//  });
 
 document.getElementById("defaultOpen").click();
 
@@ -23,7 +20,8 @@ function openPage(event, contTab) {
 }
   
 // MODALL
-var modal = document.getElementById("myModal");
+//
+var modal = document.getElementById("myModal-prblemasConexion"); // Este id corresponde al HTML del modal
 
 var btn = document.getElementById("actualizar");
 
@@ -42,3 +40,5 @@ window.onclick = function(event) {
     modal.style.display = "none";
   }
 }
+
+
