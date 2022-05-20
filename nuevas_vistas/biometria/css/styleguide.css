@@ -1,0 +1,444 @@
+:root { 
+  --abbey: #4d4d4d;
+  --alabaster: #f9f9fb;
+  --alabaster-2: #f9f9fa;
+  --athens-gray: #eff0f4;
+  --black: #000000;
+  --blue-zodiac: #152654;
+  --cape-cod: #3f4042;
+  --gravel: #4b4b4b;
+  --gray-nickel: #c4c3c3;
+  --green-vogue: #002655;
+  --green-vogue-2: #002655cc;
+  --limeade: #6a9f09;
+  --limeade-2: #689d05;
+  --madison: #0d315d;
+  --pelorous: #35b1b8;
+  --storm-dust: #646567;
+  --storm-dust-2: #626262;
+  --tradewind: #67b6b7;
+  --white: #ffffff;
+  --white-2: #ffffff80;
+ 
+  --font-size-l: 29px;
+  --font-size-m: 24px;
+  --font-size-s: 20px;
+  --font-size-xl: 30px;
+  --font-size-xs: 16px;
+  --font-size-xxl: 32px;
+  --font-size-xxxl: 40px;
+ 
+  --font-family-gotham-regular: "Gotham-Regular", Helvetica;
+  --font-family-open_sans-regular: "Open Sans-Regular", Helvetica;
+  --font-family-open_sans-semibold: "Open Sans-SemiBold", Helvetica;
+  --font-family-roboto: "Roboto", Helvetica;
+  --font-family-ubuntu: "Ubuntu", Helvetica;
+  --font-family-ubuntu-light: "Ubuntu-Light", Helvetica;
+}
+.ubuntu-normal-green-vogue-16px {
+  color: var(--green-vogue);
+  font-family: var(--font-family-ubuntu);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.ubuntu-bold-blue-zodiac-20px {
+  color: var(--blue-zodiac);
+  font-family: var(--font-family-ubuntu);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.ubuntu-medium-green-vogue-24px {
+  color: var(--green-vogue);
+  font-family: var(--font-family-ubuntu);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.ubuntu-normal-abbey-20px {
+  color: var(--abbey);
+  font-family: var(--font-family-ubuntu);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.ubuntu-normal-green-vogue-20px {
+  color: var(--green-vogue);
+  font-family: var(--font-family-ubuntu);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.ubuntu-medium-green-vogue-20px {
+  color: var(--green-vogue);
+  font-family: var(--font-family-ubuntu);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.roboto-normal-white-60px {
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: 60px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.ubuntu-medium-pelorous-20px {
+  color: var(--pelorous);
+  font-family: var(--font-family-ubuntu);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.ubuntu-medium-white-30px {
+  color: var(--white);
+  font-family: var(--font-family-ubuntu);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.ubuntu-normal-blue-zodiac-24px {
+  color: var(--blue-zodiac);
+  font-family: var(--font-family-ubuntu);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.ubuntu-normal-white-16px {
+  color: var(--white);
+  font-family: var(--font-family-ubuntu);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.ubuntu-normal-madison-40px {
+  color: var(--madison);
+  font-family: var(--font-family-ubuntu);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.ubuntu-normal-green-vogue-24px {
+  color: var(--green-vogue);
+  font-family: var(--font-family-ubuntu);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.ubuntu-medium-pelorous-30px {
+  color: var(--pelorous);
+  font-family: var(--font-family-ubuntu);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.ubuntu-medium-white-20px {
+  color: var(--white);
+  font-family: var(--font-family-ubuntu);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.opensans-semi-bold-green-vogue-20px {
+  color: var(--green-vogue);
+  font-family: var(--font-family-open_sans-semibold);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.ubuntu-bold-pelorous-24px {
+  color: var(--pelorous);
+  font-family: var(--font-family-ubuntu);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.ubuntu-bold-pelorous-32px {
+  color: var(--pelorous);
+  font-family: var(--font-family-ubuntu);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.ubuntu-medium-gravel-24px {
+  color: var(--gravel);
+  font-family: var(--font-family-ubuntu);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.ubuntu-normal-blue-zodiac-20px {
+  color: var(--blue-zodiac);
+  font-family: var(--font-family-ubuntu);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.ubuntu-bold-green-vogue-32px {
+  color: var(--green-vogue);
+  font-family: var(--font-family-ubuntu);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.ubuntu-bold-blue-zodiac-24px {
+  color: var(--blue-zodiac);
+  font-family: var(--font-family-ubuntu);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.opensans-regular-normal-abbey-20px {
+  color: var(--abbey);
+  font-family: var(--font-family-open_sans-regular);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.ubuntu-normal-pelorous-24px {
+  color: var(--pelorous);
+  font-family: var(--font-family-ubuntu);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.ubuntu-normal-black-20px {
+  color: var(--black);
+  font-family: var(--font-family-ubuntu);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.opensans-semi-bold-green-vogue-24px {
+  color: var(--green-vogue);
+  font-family: var(--font-family-open_sans-semibold);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 600;
+}
+
+.ubuntu-light-gravel-20px {
+  color: var(--gravel);
+  font-family: var(--font-family-ubuntu-light);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 300;
+}
+
+.ubuntu-normal-tradewind-20px {
+  color: var(--tradewind);
+  font-family: var(--font-family-ubuntu);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.ubuntu-light-blue-zodiac-20px {
+  color: var(--blue-zodiac);
+  font-family: var(--font-family-ubuntu-light);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 300;
+}
+
+.ubuntu-medium-green-vogue-32px {
+  color: var(--green-vogue);
+  font-family: var(--font-family-ubuntu);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.ubuntu-medium-black-40px {
+  color: var(--black);
+  font-family: var(--font-family-ubuntu);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.ubuntu-light-gravel-24px {
+  color: var(--gravel);
+  font-family: var(--font-family-ubuntu-light);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 300;
+}
+
+.ubuntu-normal-gray-nickel-20px {
+  color: var(--gray-nickel);
+  font-family: var(--font-family-ubuntu);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.roboto-normal-white-38-9px {
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: 38.9px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.opensans-regular-normal-limeade-24px {
+  color: var(--limeade);
+  font-family: var(--font-family-open_sans-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.ubuntu-normal-green-vogue-30px {
+  color: var(--green-vogue);
+  font-family: var(--font-family-ubuntu);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.ubuntu-medium-black-24px {
+  color: var(--black);
+  font-family: var(--font-family-ubuntu);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.ubuntu-medium-green-vogue-30px {
+  color: var(--green-vogue);
+  font-family: var(--font-family-ubuntu);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.ubuntu-normal-green-vogue-32px {
+  color: var(--green-vogue);
+  font-family: var(--font-family-ubuntu);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.ubuntu-normal-storm-dust-20px {
+  color: var(--storm-dust-2);
+  font-family: var(--font-family-ubuntu);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.ubuntu-light-pelorous-24px {
+  color: var(--pelorous);
+  font-family: var(--font-family-ubuntu-light);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 300;
+}
+
+.ubuntu-medium-blue-zodiac-24px {
+  color: var(--blue-zodiac);
+  font-family: var(--font-family-ubuntu);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.ubuntu-bold-white-24px {
+  color: var(--white);
+  font-family: var(--font-family-ubuntu);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.ubuntu-medium-pelorous-32px {
+  color: var(--pelorous);
+  font-family: var(--font-family-ubuntu);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.ubuntu-medium-green-vogue-32px-2 {
+  color: var(--green-vogue-2);
+  font-family: var(--font-family-ubuntu);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.opensans-regular-normal-green-vogue-24px {
+  color: var(--green-vogue);
+  font-family: var(--font-family-open_sans-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.ubuntu-light-storm-dust-16px {
+  color: var(--storm-dust-2);
+  font-family: var(--font-family-ubuntu-light);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 300;
+}
+
+.ubuntu-normal-pelorous-20px {
+  color: var(--pelorous);
+  font-family: var(--font-family-ubuntu);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.ubuntu-medium-green-vogue-21px {
+  color: var(--green-vogue);
+  font-family: var(--font-family-ubuntu);
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 500;
+}
+
+.border-1px-pelorous {
+  border: 1px solid var(--pelorous);
+}
+
+.border-1-5px-green-vogue {
+  border: 1.5px solid var(--green-vogue);
+}
+
+.border-3-3px-pelorous {
+  border: 3.3px solid var(--pelorous);
+}
+
+.border-1-5px-pelorous {
+  border: 1.5px solid var(--pelorous);
+}
