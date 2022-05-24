@@ -291,11 +291,13 @@ appearance: none;
   text-align: left;
   white-space: nowrap;
   width: auto;
+  
 }
 
 .vista-caja-digital .input-style {
   align-items: flex-start;
   font-size: 20px;
+  font-family: 'Open Sans', sans-serif;
   background-color: transparent;
   border-radius: 15px;
   display: flex;
@@ -340,6 +342,7 @@ appearance: none;
 .vista-caja-digital .text-terminos {
   background-color: transparent;
   letter-spacing: 0.00px;
+  font-family: 'Open Sans', sans-serif;
   line-height: 38px;
   mix-blend-mode: normal;
   position: relative;
@@ -350,7 +353,7 @@ appearance: none;
 
 .checkbox {
   margin-top: -3%;
-  margin-left: -1%;
+  margin-left: 0;
   font-size: 20px;
   color: #152654;
 
@@ -364,6 +367,7 @@ appearance: none;
   cursor: pointer;
   font-size: 22px;
   font-weight: 500;
+  font-family: 'Open Sans', sans-serif;
   -webkit-user-select: none;
   -moz-user-select: none;
   -ms-user-select: none;
