@@ -43,7 +43,7 @@
   font-weight: 400;
 }
 
-.ubuntu-bold-blue-zodiac-20px {
+.estilo-listado {
   color: var(--blue-zodiac);
   font-family: var(--font-family-ubuntu);
   font-size: var(--font-size-s);
@@ -59,7 +59,7 @@
   font-weight: 500;
 }
 
-.ubuntu-normal-abbey-20px {
+.estilo-listadoRespuesta {
   color: var(--abbey);
   font-family: var(--font-family-ubuntu);
   font-size: var(--font-size-s);
@@ -195,7 +195,7 @@
   font-weight: 400;
 }
 
-.ubuntu-bold-green-vogue-32px {
+.estilo-tituloPrincipal {
   color: var(--green-vogue);
   font-family: var(--font-family-ubuntu);
   font-size: var(--font-size-xxl);
@@ -219,7 +219,7 @@
   font-weight: 400;
 }
 
-.ubuntu-normal-pelorous-24px {
+.estilo-parrafo {
   color: var(--pelorous);
   font-family: var(--font-family-ubuntu);
   font-size: var(--font-size-m);

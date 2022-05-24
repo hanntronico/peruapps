@@ -1,6 +1,6 @@
 /* screen - 354 */
 
-.x354 {
+.confirmacion_contraseña {
   background-color: var(--white);
   height: 1920px;
   mix-blend-mode: normal;
@@ -9,16 +9,7 @@
   width: 1080px;
 }
 
-.x354 .group-12781-PNKQ8w {
-  background-color: transparent;
-  height: 1920px;
-  left: 0px;
-  position: absolute;
-  top: 0px;
-  width: 1085px;
-}
-
-.x354 .group-46-bFegnA {
+.confirmacion_contraseña .container-logo {
   background-color: transparent;
   height: 1920px;
   left: 0px;
@@ -27,7 +18,7 @@
   width: 1085px;
 }
 
-.x354 .getty-images-1083913610-1-46yWlJ {
+.confirmacion_contraseña .imagen-logo {
   background-color: transparent;
   height: 1920px;
   left: 0px;
@@ -38,7 +29,7 @@
   width: 1085px;
 }
 
-.x354 .rectangle-15-46yWlJ {
+.confirmacion_contraseña .rectangle-15-46yWlJ {
   background: linear-gradient(180deg, rgb(255, 255, 255) 0%, rgba(255, 255, 255, 0) 100%);
   background-color: transparent;
   height: 1920px;
@@ -49,7 +40,7 @@
   width: 1085px;
 }
 
-.x354 .frame-23811-PNKQ8w {
+.confirmacion_contraseña .container-principal {
   align-items: center;
   background-color: transparent;
   display: flex;
@@ -61,14 +52,14 @@
   top: 0px;
 }
 
-.x354 .frame-12627-variant2-cT5BUz {
+.confirmacion_contraseña .imagen-fondo-logo {
   background-color: transparent;
   height: 176px;
   position: relative;
   width: 1080px;
 }
 
-.x354 .frame-23818-cT5BUz {
+.confirmacion_contraseña .container-titulo-vista {
   align-items: center;
   background-color: var(--white-2);
   border-radius: 20px;
@@ -82,7 +73,7 @@
   position: relative;
 }
 
-.x354 .frame-23810-Cx214R {
+.confirmacion_contraseña .container-titulo-vista2 {
   align-items: flex-end;
   background-color: transparent;
   display: flex;
@@ -97,7 +88,7 @@
   width: 956px;
 }
 
-.x354 .frame-23716-9IAxlh {
+.confirmacion_contraseña .container-icono-caja {
   align-items: flex-start;
   background-color: transparent;
   display: flex;
@@ -108,14 +99,14 @@
   position: relative;
 }
 
-.x354 .grupo-1140-zoMKr2 {
+.confirmacion_contraseña .imagen-icono {
   background-color: transparent;
   height: 48px;
   position: relative;
   width: 48px;
 }
 
-.x354 .frame-23713-zoMKr2 {
+.confirmacion_contraseña .container-titulo {
   align-items: center;
   background-color: transparent;
   display: flex;
@@ -130,7 +121,7 @@
   position: relative;
 }
 
-.x354 .caja-digital-zs1ubU {
+.confirmacion_contraseña .caja-digital {
   background-color: transparent;
   height: 38px;
   letter-spacing: 0.00px;
@@ -142,7 +133,7 @@
   width: auto;
 }
 
-.x354 .frame-23772-Cx214R {
+.confirmacion_contraseña .titulo-form {
   align-items: center;
   background-color: transparent;
   display: flex;
@@ -155,7 +146,7 @@
   position: relative;
 }
 
-.x354 .ingresa-la-clave-de-bNLqxS {
+.confirmacion_contraseña .ingresa-la-clave-de-bNLqxS {
   background-color: transparent;
   letter-spacing: 0.00px;
   line-height: 33.2px;
@@ -166,7 +157,7 @@
   width: auto;
 }
 
-.x354 .frame-23831-Cx214R {
+.confirmacion_contraseña .container-labels-principal {
   align-items: flex-start;
   background-color: transparent;
   display: flex;
@@ -178,20 +169,7 @@
   position: relative;
 }
 
-.x354 .frame-23553-variant3-zexiQH {
-  align-items: flex-start;
-  background-color: transparent;
-  display: flex;
-  flex-direction: column;
-  gap: 8px;
-  justify-content: flex-start;
-  min-height: 142px;
-  min-width: 793px;
-  padding-top: 8px;
-  position: relative;
-}
-
-.x354 .texto-EhAzwT {
+.confirmacion_contraseña .clave-secretaT {
   background-color: transparent;
   letter-spacing: 0.00px;
   line-height: 38px;
@@ -203,7 +181,7 @@
   width: auto;
 }
 
-.x354 .inactivo-EhAzwT {
+.confirmacion_contraseña .inactivo-EhAzwT {
   align-items: flex-start;
   background-color: transparent;
   border-radius: 15px;
@@ -221,19 +199,15 @@
   width: 793px;
 }
 
-.x354 .escribir-texto-imput-WqJld2 {
-  background-color: transparent;
-  height: 20px;
-  letter-spacing: 0.00px;
-  line-height: 20px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  white-space: nowrap;
-  width: auto;
+.confirmacion_contraseña .clave_secreta, .confirme_clave_secreta {
+  padding: 26px !important;
+  width: 100%;
+  border-radius: 10px;
+  font-size: 26px !important;
+  background: transparent;
 }
 
-.x354 .frame-23553-variant3-tGAXor {
+.confirmacion_contraseña .container-labels {
   align-items: flex-start;
   background-color: transparent;
   display: flex;
@@ -246,7 +220,7 @@
   position: relative;
 }
 
-.x354 .texto-kNxR57 {
+.confirmacion_contraseña .clave-secreta {
   background-color: transparent;
   letter-spacing: 0.00px;
   line-height: 38px;
@@ -258,7 +232,7 @@
   width: auto;
 }
 
-.x354 .inactivo-kNxR57 {
+.confirmacion_contraseña .inactivo-kNxR57 {
   align-items: flex-start;
   background-color: transparent;
   border-radius: 15px;
@@ -276,7 +250,7 @@
   width: 793px;
 }
 
-.x354 .escribir-texto-imput-krbz0P {
+.confirmacion_contraseña .escribir-texto-imput-krbz0P {
   background-color: transparent;
   height: 20px;
   letter-spacing: 0.00px;
@@ -288,7 +262,7 @@
   width: auto;
 }
 
-.x354 .frame-23562-Cx214R {
+.confirmacion_contraseña .container-botones {
   align-items: flex-end;
   align-self: stretch;
   background-color: transparent;
@@ -303,7 +277,7 @@
   position: relative;
 }
 
-.x354 .frame-23537-variant3-5GT08a {
+.confirmacion_contraseña .btnCancelar_container {
   align-items: center;
   background-color: var(--white);
   border-radius: 20px;
@@ -320,19 +294,17 @@
   width: 384px;
 }
 
-.x354 .texto-qnImyU {
-  background-color: transparent;
-  height: 34px;
-  letter-spacing: 0.00px;
-  line-height: 33.2px;
-  mix-blend-mode: normal;
-  position: relative;
+.confirmacion_contraseña .btnCancelar {
+  height: 100%;
+  width: 100%;
   text-align: center;
-  white-space: nowrap;
-  width: auto;
+  padding: 0px;
+  border-radius: 11px;
+  border: none;
+  background: white;
 }
 
-.x354 .frame-23537-variant3-z0Vvea {
+.confirmacion_contraseña .btnSiguiente_container{
   align-items: center;
   background-color: var(--pelorous);
   border-radius: 20px;
@@ -349,7 +321,7 @@
   width: 384px;
 }
 
-.x354 .texto-LCAxW4 {
+.confirmacion_contraseña .btnSiguiente{
   background-color: transparent;
   height: 34px;
   letter-spacing: 0.00px;
@@ -359,9 +331,11 @@
   text-align: center;
   white-space: nowrap;
   width: auto;
+  border: none;
+  cursor: pointer;
 }
 
-.x354 .ios-keyboard-phone-PNKQ8w {
+.confirmacion_contraseña .ios-keyboard-phone-PNKQ8w {
   background-color: #202325;
   box-shadow: -28.100000381469727px 146.0800018310547px 170px #779ec242;
   height: 642px;
@@ -372,7 +346,7 @@
   width: 1080px;
 }
 
-.x354 .letters-layout-6lZfxw {
+.confirmacion_contraseña .letters-layout-6lZfxw {
   background-color: transparent;
   height: 556px;
   left: 13px;
@@ -381,7 +355,7 @@
   width: 1053px;
 }
 
-.x354 .key-c6y4jn {
+.confirmacion_contraseña .key-c6y4jn {
   background-color: var(--storm-dust);
   border-radius: 10px;
   box-shadow: 0px 3px 0px #00000038;
@@ -394,7 +368,7 @@
   width: 90px;
 }
 
-.x354 .v1-ABQuzn {
+.confirmacion_contraseña .v1-ABQuzn {
   background-color: transparent;
   height: 115px;
   left: 0px;
@@ -403,7 +377,7 @@
   width: 92px;
 }
 
-.x354 .letter-VHHxm6 {
+.confirmacion_contraseña .letter-VHHxm6 {
   background-color: transparent;
   height: 115px;
   left: 0px;
@@ -416,7 +390,7 @@
   width: 90px;
 }
 
-.x354 .key-jr84XZ {
+.confirmacion_contraseña .key-jr84XZ {
   background-color: var(--storm-dust);
   border-radius: 10px;
   box-shadow: 0px 3px 0px #00000038;
@@ -429,7 +403,7 @@
   width: 90px;
 }
 
-.x354 .v1-yLjwMT {
+.confirmacion_contraseña .v1-yLjwMT {
   background-color: transparent;
   height: 115px;
   left: 0px;
@@ -438,7 +412,7 @@
   width: 92px;
 }
 
-.x354 .letter-nFB4wK {
+.confirmacion_contraseña .letter-nFB4wK {
   background-color: transparent;
   height: 115px;
   left: 0px;
@@ -451,7 +425,7 @@
   width: 90px;
 }
 
-.x354 .key-AxPUgl {
+.confirmacion_contraseña .key-AxPUgl {
   background-color: var(--storm-dust);
   border-radius: 10px;
   box-shadow: 0px 3px 0px #00000038;
@@ -464,7 +438,7 @@
   width: 90px;
 }
 
-.x354 .v1-Yfny1x {
+.confirmacion_contraseña .v1-Yfny1x {
   background-color: transparent;
   height: 115px;
   left: 0px;
@@ -473,7 +447,7 @@
   width: 92px;
 }
 
-.x354 .letter-gEMA8L {
+.confirmacion_contraseña .letter-gEMA8L {
   background-color: transparent;
   height: 115px;
   left: 0px;
@@ -486,7 +460,7 @@
   width: 90px;
 }
 
-.x354 .key-S3J8s4 {
+.confirmacion_contraseña .key-S3J8s4 {
   background-color: var(--storm-dust);
   border-radius: 10px;
   box-shadow: 0px 3px 0px #00000038;
@@ -499,7 +473,7 @@
   width: 90px;
 }
 
-.x354 .v1-VUAsrs {
+.confirmacion_contraseña .v1-VUAsrs {
   background-color: transparent;
   height: 115px;
   left: 0px;
@@ -508,7 +482,7 @@
   width: 92px;
 }
 
-.x354 .letter-FcuF7o {
+.confirmacion_contraseña .letter-FcuF7o {
   background-color: transparent;
   height: 115px;
   left: 0px;
@@ -521,7 +495,7 @@
   width: 90px;
 }
 
-.x354 .key-xVWxtG {
+.confirmacion_contraseña .key-xVWxtG {
   background-color: var(--storm-dust);
   border-radius: 10px;
   box-shadow: 0px 3px 0px #00000038;
@@ -534,7 +508,7 @@
   width: 90px;
 }
 
-.x354 .v1-tUqHjx {
+.confirmacion_contraseña .v1-tUqHjx {
   background-color: transparent;
   height: 115px;
   left: 0px;
@@ -543,7 +517,7 @@
   width: 92px;
 }
 
-.x354 .letter-Aiqaha {
+.confirmacion_contraseña .letter-Aiqaha {
   background-color: transparent;
   height: 115px;
   left: 0px;
@@ -556,7 +530,7 @@
   width: 90px;
 }
 
-.x354 .key-C9LLfB {
+.confirmacion_contraseña .key-C9LLfB {
   background-color: var(--storm-dust);
   border-radius: 10px;
   box-shadow: 0px 3px 0px #00000038;
@@ -569,7 +543,7 @@
   width: 90px;
 }
 
-.x354 .v1-M8canr {
+.confirmacion_contraseña .v1-M8canr {
   background-color: transparent;
   height: 115px;
   left: 0px;
@@ -578,7 +552,7 @@
   width: 92px;
 }
 
-.x354 .letter-Wx3LpA {
+.confirmacion_contraseña .letter-Wx3LpA {
   background-color: transparent;
   height: 115px;
   left: 0px;
@@ -591,7 +565,7 @@
   width: 90px;
 }
 
-.x354 .key-EeHGkd {
+.confirmacion_contraseña .key-EeHGkd {
   background-color: var(--storm-dust);
   border-radius: 10px;
   box-shadow: 0px 3px 0px #00000038;
@@ -604,7 +578,7 @@
   width: 90px;
 }
 
-.x354 .v1-SI4xfY {
+.confirmacion_contraseña .v1-SI4xfY {
   background-color: transparent;
   height: 115px;
   left: 0px;
@@ -613,7 +587,7 @@
   width: 92px;
 }
 
-.x354 .letter-w2BSp7 {
+.confirmacion_contraseña .letter-w2BSp7 {
   background-color: transparent;
   height: 115px;
   left: 0px;
@@ -626,7 +600,7 @@
   width: 90px;
 }
 
-.x354 .key-cKYLwb {
+.confirmacion_contraseña .key-cKYLwb {
   background-color: var(--storm-dust);
   border-radius: 10px;
   box-shadow: 0px 3px 0px #00000038;
@@ -639,7 +613,7 @@
   width: 90px;
 }
 
-.x354 .v1-e4wxl8 {
+.confirmacion_contraseña .v1-e4wxl8 {
   background-color: transparent;
   height: 115px;
   left: 0px;
@@ -648,7 +622,7 @@
   width: 92px;
 }
 
-.x354 .letter-u2u8Ux {
+.confirmacion_contraseña .letter-u2u8Ux {
   background-color: transparent;
   height: 115px;
   left: 0px;
@@ -661,7 +635,7 @@
   width: 90px;
 }
 
-.x354 .key-qBrZJW {
+.confirmacion_contraseña .key-qBrZJW {
   background-color: var(--storm-dust);
   border-radius: 10px;
   box-shadow: 0px 3px 0px #00000038;
@@ -674,7 +648,7 @@
   width: 90px;
 }
 
-.x354 .v1-90RpwJ {
+.confirmacion_contraseña .v1-90RpwJ {
   background-color: transparent;
   height: 115px;
   left: 0px;
@@ -683,7 +657,7 @@
   width: 92px;
 }
 
-.x354 .letter-qqul59 {
+.confirmacion_contraseña .letter-qqul59 {
   background-color: transparent;
   height: 115px;
   left: 0px;
@@ -696,7 +670,7 @@
   width: 90px;
 }
 
-.x354 .key-4v1PZ8 {
+.confirmacion_contraseña .key-4v1PZ8 {
   background-color: var(--storm-dust);
   border-radius: 10px;
   box-shadow: 0px 3px 0px #00000038;
@@ -709,7 +683,7 @@
   width: 90px;
 }
 
-.x354 .v1-Pvcx8G {
+.confirmacion_contraseña .v1-Pvcx8G {
   background-color: transparent;
   height: 115px;
   left: 0px;
@@ -718,7 +692,7 @@
   width: 92px;
 }
 
-.x354 .letter-qPAHHx {
+.confirmacion_contraseña .letter-qPAHHx {
   background-color: transparent;
   height: 115px;
   left: 0px;
@@ -731,7 +705,7 @@
   width: 90px;
 }
 
-.x354 .key-pPvU7y {
+.confirmacion_contraseña .key-pPvU7y {
   background-color: var(--storm-dust);
   border-radius: 10px;
   box-shadow: 0px 3px 0px #00000038;
@@ -744,7 +718,7 @@
   width: 90px;
 }
 
-.x354 .v1-rhaLXP {
+.confirmacion_contraseña .v1-rhaLXP {
   background-color: transparent;
   height: 115px;
   left: 0px;
@@ -753,7 +727,7 @@
   width: 92px;
 }
 
-.x354 .letter-9Jl8Hr {
+.confirmacion_contraseña .letter-9Jl8Hr {
   background-color: transparent;
   height: 115px;
   left: 0px;
@@ -766,7 +740,7 @@
   width: 90px;
 }
 
-.x354 .key-KTy3fy {
+.confirmacion_contraseña .key-KTy3fy {
   background-color: var(--storm-dust);
   border-radius: 10px;
   box-shadow: 0px 3px 0px #00000038;
@@ -779,7 +753,7 @@
   width: 90px;
 }
 
-.x354 .v1-z4GmyH {
+.confirmacion_contraseña .v1-z4GmyH {
   background-color: transparent;
   height: 115px;
   left: 0px;
@@ -788,7 +762,7 @@
   width: 92px;
 }
 
-.x354 .letter-IFXqWh {
+.confirmacion_contraseña .letter-IFXqWh {
   background-color: transparent;
   height: 115px;
   left: 0px;
@@ -801,7 +775,7 @@
   width: 90px;
 }
 
-.x354 .key-6qt5Jx {
+.confirmacion_contraseña .key-6qt5Jx {
   background-color: var(--storm-dust);
   border-radius: 10px;
   box-shadow: 0px 3px 0px #00000038;
@@ -814,7 +788,7 @@
   width: 90px;
 }
 
-.x354 .v1-0SiJpH {
+.confirmacion_contraseña .v1-0SiJpH {
   background-color: transparent;
   height: 115px;
   left: 0px;
@@ -823,7 +797,7 @@
   width: 92px;
 }
 
-.x354 .letter-dXxurK {
+.confirmacion_contraseña .letter-dXxurK {
   background-color: transparent;
   height: 115px;
   left: 0px;
@@ -836,7 +810,7 @@
   width: 90px;
 }
 
-.x354 .text-key-c6y4jn {
+.confirmacion_contraseña .text-key-c6y4jn {
   background-color: var(--storm-dust);
   border-radius: 10px;
   box-shadow: 0px 3px 0px #00000038;
@@ -848,7 +822,7 @@
   width: 411px;
 }
 
-.x354 .numbers-E7NPL8 {
+.confirmacion_contraseña .numbers-E7NPL8 {
   background-color: transparent;
   height: 104px;
   left: 1px;
@@ -858,7 +832,7 @@
   width: 410px;
 }
 
-.x354 .letter-CKB3NT {
+.confirmacion_contraseña .letter-CKB3NT {
   background-color: transparent;
   height: 104px;
   left: 0px;
@@ -871,7 +845,7 @@
   width: 410px;
 }
 
-.x354 .text-key-jr84XZ {
+.confirmacion_contraseña .text-key-jr84XZ {
   background-color: var(--cape-cod);
   border-radius: 10px;
   box-shadow: 0px 3px 0px #00000038;
@@ -883,7 +857,7 @@
   width: 250px;
 }
 
-.x354 .numbers-YRhMeo {
+.confirmacion_contraseña .numbers-YRhMeo {
   background-color: transparent;
   height: 104px;
   left: 1px;
@@ -893,7 +867,7 @@
   width: 249px;
 }
 
-.x354 .letter-38xcGj {
+.confirmacion_contraseña .letter-38xcGj {
   background-color: transparent;
   height: 104px;
   left: 0px;
@@ -906,7 +880,7 @@
   width: 249px;
 }
 
-.x354 .key-vlB4TV {
+.confirmacion_contraseña .key-vlB4TV {
   background-color: var(--storm-dust);
   border-radius: 10px;
   box-shadow: 0px 3px 0px #00000038;
@@ -919,7 +893,7 @@
   width: 90px;
 }
 
-.x354 .v1-cze7Lu {
+.confirmacion_contraseña .v1-cze7Lu {
   background-color: transparent;
   height: 115px;
   left: 0px;
@@ -928,7 +902,7 @@
   width: 92px;
 }
 
-.x354 .letter-xTRITC {
+.confirmacion_contraseña .letter-xTRITC {
   background-color: transparent;
   height: 115px;
   left: 0px;
@@ -941,7 +915,7 @@
   width: 90px;
 }
 
-.x354 .key-DAej5I {
+.confirmacion_contraseña .key-DAej5I {
   background-color: var(--storm-dust);
   border-radius: 10px;
   box-shadow: 0px 3px 0px #00000038;
@@ -954,7 +928,7 @@
   width: 90px;
 }
 
-.x354 .v1-xL4oq2 {
+.confirmacion_contraseña .v1-xL4oq2 {
   background-color: transparent;
   height: 115px;
   left: 0px;
@@ -963,7 +937,7 @@
   width: 92px;
 }
 
-.x354 .letter-Y5UMZe {
+.confirmacion_contraseña .letter-Y5UMZe {
   background-color: transparent;
   height: 115px;
   left: 0px;
@@ -976,7 +950,7 @@
   width: 90px;
 }
 
-.x354 .key-ic7I3O {
+.confirmacion_contraseña .key-ic7I3O {
   background-color: var(--storm-dust);
   border-radius: 10px;
   box-shadow: 0px 3px 0px #00000038;
@@ -989,7 +963,7 @@
   width: 90px;
 }
 
-.x354 .v1-Bbq557 {
+.confirmacion_contraseña .v1-Bbq557 {
   background-color: transparent;
   height: 115px;
   left: 0px;
@@ -998,7 +972,7 @@
   width: 92px;
 }
 
-.x354 .letter-4xyDBU {
+.confirmacion_contraseña .letter-4xyDBU {
   background-color: transparent;
   height: 115px;
   left: 0px;
@@ -1011,7 +985,7 @@
   width: 90px;
 }
 
-.x354 .key-KXnw9f {
+.confirmacion_contraseña .key-KXnw9f {
   background-color: var(--storm-dust);
   border-radius: 10px;
   box-shadow: 0px 3px 0px #00000038;
@@ -1024,7 +998,7 @@
   width: 90px;
 }
 
-.x354 .v1-96sp5p {
+.confirmacion_contraseña .v1-96sp5p {
   background-color: transparent;
   height: 115px;
   left: 0px;
@@ -1033,7 +1007,7 @@
   width: 92px;
 }
 
-.x354 .letter-T3FPEU {
+.confirmacion_contraseña .letter-T3FPEU {
   background-color: transparent;
   height: 115px;
   left: 0px;
@@ -1046,7 +1020,7 @@
   width: 90px;
 }
 
-.x354 .key-hhGkop {
+.confirmacion_contraseña .key-hhGkop {
   background-color: var(--storm-dust);
   border-radius: 10px;
   box-shadow: 0px 3px 0px #00000038;
@@ -1059,7 +1033,7 @@
   width: 90px;
 }
 
-.x354 .v1-LHRqXY {
+.confirmacion_contraseña .v1-LHRqXY {
   background-color: transparent;
   height: 115px;
   left: 0px;
@@ -1068,7 +1042,7 @@
   width: 92px;
 }
 
-.x354 .letter-I4AFHc {
+.confirmacion_contraseña .letter-I4AFHc {
   background-color: transparent;
   height: 115px;
   left: 0px;
@@ -1081,7 +1055,7 @@
   width: 90px;
 }
 
-.x354 .key-OXFX5z {
+.confirmacion_contraseña .key-OXFX5z {
   background-color: var(--storm-dust);
   border-radius: 10px;
   box-shadow: 0px 3px 0px #00000038;
@@ -1094,7 +1068,7 @@
   width: 90px;
 }
 
-.x354 .v1-y8KdYS {
+.confirmacion_contraseña .v1-y8KdYS {
   background-color: transparent;
   height: 115px;
   left: 0px;
@@ -1103,7 +1077,7 @@
   width: 92px;
 }
 
-.x354 .letter-mDYxx2 {
+.confirmacion_contraseña .letter-mDYxx2 {
   background-color: transparent;
   height: 115px;
   left: 0px;
@@ -1116,7 +1090,7 @@
   width: 90px;
 }
 
-.x354 .key-x44jMt {
+.confirmacion_contraseña .key-x44jMt {
   background-color: var(--storm-dust);
   border-radius: 10px;
   box-shadow: 0px 3px 0px #00000038;
@@ -1129,7 +1103,7 @@
   width: 90px;
 }
 
-.x354 .v1-BTyeCm {
+.confirmacion_contraseña .v1-BTyeCm {
   background-color: transparent;
   height: 115px;
   left: 0px;
@@ -1138,7 +1112,7 @@
   width: 92px;
 }
 
-.x354 .letter-SwfO7U {
+.confirmacion_contraseña .letter-SwfO7U {
   background-color: transparent;
   height: 115px;
   left: 0px;
@@ -1151,7 +1125,7 @@
   width: 90px;
 }
 
-.x354 .key-g1CvOD {
+.confirmacion_contraseña .key-g1CvOD {
   background-color: var(--storm-dust);
   border-radius: 10px;
   box-shadow: 0px 3px 0px #00000038;
@@ -1164,7 +1138,7 @@
   width: 90px;
 }
 
-.x354 .v1-V4jUUa {
+.confirmacion_contraseña .v1-V4jUUa {
   background-color: transparent;
   height: 115px;
   left: 0px;
@@ -1173,7 +1147,7 @@
   width: 92px;
 }
 
-.x354 .letter-xWHdKi {
+.confirmacion_contraseña .letter-xWHdKi {
   background-color: transparent;
   height: 115px;
   left: 0px;
@@ -1186,7 +1160,7 @@
   width: 90px;
 }
 
-.x354 .key-MGtexf {
+.confirmacion_contraseña .key-MGtexf {
   background-color: var(--storm-dust);
   border-radius: 10px;
   box-shadow: 0px 3px 0px #00000038;
@@ -1199,7 +1173,7 @@
   width: 90px;
 }
 
-.x354 .v1-363oYb {
+.confirmacion_contraseña .v1-363oYb {
   background-color: transparent;
   height: 115px;
   left: 0px;
@@ -1208,7 +1182,7 @@
   width: 92px;
 }
 
-.x354 .letter-OUAZnu {
+.confirmacion_contraseña .letter-OUAZnu {
   background-color: transparent;
   height: 115px;
   left: 0px;
@@ -1221,7 +1195,7 @@
   width: 90px;
 }
 
-.x354 .key-YUlUCI {
+.confirmacion_contraseña .key-YUlUCI {
   background-color: var(--storm-dust);
   border-radius: 10px;
   box-shadow: 0px 3px 0px #00000038;
@@ -1234,7 +1208,7 @@
   width: 90px;
 }
 
-.x354 .v1-EUivyG {
+.confirmacion_contraseña .v1-EUivyG {
   background-color: transparent;
   height: 115px;
   left: 0px;
@@ -1243,7 +1217,7 @@
   width: 92px;
 }
 
-.x354 .letter-t8SDVC {
+.confirmacion_contraseña .letter-t8SDVC {
   background-color: transparent;
   height: 115px;
   left: 0px;
@@ -1256,7 +1230,7 @@
   width: 90px;
 }
 
-.x354 .key-uTJDY4 {
+.confirmacion_contraseña .key-uTJDY4 {
   background-color: var(--storm-dust);
   border-radius: 10px;
   box-shadow: 0px 3px 0px #00000038;
@@ -1269,7 +1243,7 @@
   width: 90px;
 }
 
-.x354 .v1-Lixm4U {
+.confirmacion_contraseña .v1-Lixm4U {
   background-color: transparent;
   height: 115px;
   left: 0px;
@@ -1278,7 +1252,7 @@
   width: 92px;
 }
 
-.x354 .letter-VJ6UDe {
+.confirmacion_contraseña .letter-VJ6UDe {
   background-color: transparent;
   height: 115px;
   left: 0px;
@@ -1291,7 +1265,7 @@
   width: 90px;
 }
 
-.x354 .key-A3PSKM {
+.confirmacion_contraseña .key-A3PSKM {
   background-color: var(--storm-dust);
   border-radius: 10px;
   box-shadow: 0px 3px 0px #00000038;
@@ -1304,7 +1278,7 @@
   width: 90px;
 }
 
-.x354 .v1-utxpWj {
+.confirmacion_contraseña .v1-utxpWj {
   background-color: transparent;
   height: 115px;
   left: 0px;
@@ -1313,7 +1287,7 @@
   width: 92px;
 }
 
-.x354 .letter-JWFm8J {
+.confirmacion_contraseña .letter-JWFm8J {
   background-color: transparent;
   height: 115px;
   left: 0px;
@@ -1326,7 +1300,7 @@
   width: 90px;
 }
 
-.x354 .key-ZNhRy6 {
+.confirmacion_contraseña .key-ZNhRy6 {
   background-color: var(--storm-dust);
   border-radius: 10px;
   box-shadow: 0px 3px 0px #00000038;
@@ -1339,7 +1313,7 @@
   width: 90px;
 }
 
-.x354 .v1-m7vSKv {
+.confirmacion_contraseña .v1-m7vSKv {
   background-color: transparent;
   height: 115px;
   left: 0px;
@@ -1348,7 +1322,7 @@
   width: 92px;
 }
 
-.x354 .letter-xKY40x {
+.confirmacion_contraseña .letter-xKY40x {
   background-color: transparent;
   height: 115px;
   left: 0px;
@@ -1361,7 +1335,7 @@
   width: 90px;
 }
 
-.x354 .special-key-c6y4jn {
+.confirmacion_contraseña .special-key-c6y4jn {
   background-color: var(--storm-dust);
   border-radius: 10px;
   box-shadow: 0px 3px 0px #00000038;
@@ -1373,7 +1347,7 @@
   width: 90px;
 }
 
-.x354 .micro-aAo4aT {
+.confirmacion_contraseña .micro-aAo4aT {
   background-color: transparent;
   height: 54px;
   left: 18px;
@@ -1382,7 +1356,7 @@
   width: 54px;
 }
 
-.x354 .rectangle-46-QjOa4z {
+.confirmacion_contraseña .rectangle-46-QjOa4z {
   background-color: transparent;
   height: 35px;
   left: 12px;
@@ -1391,7 +1365,7 @@
   width: 28px;
 }
 
-.x354 .rectangle-45-QjOa4z {
+.confirmacion_contraseña .rectangle-45-QjOa4z {
   background-color: transparent;
   border: 3px solid var(--white);
   border-radius: 50px;
@@ -1402,7 +1376,7 @@
   width: 15px;
 }
 
-.x354 .special-key-jr84XZ {
+.confirmacion_contraseña .special-key-jr84XZ {
   background-color: var(--cape-cod);
   border-radius: 10px;
   box-shadow: 0px 3px 0px #00000038;
@@ -1414,7 +1388,7 @@
   width: 117px;
 }
 
-.x354 .globe-UhsacE {
+.confirmacion_contraseña .globe-UhsacE {
   background-color: transparent;
   height: 54px;
   left: 32px;
@@ -1424,7 +1398,7 @@
   width: 54px;
 }
 
-.x354 .text-key-AxPUgl {
+.confirmacion_contraseña .text-key-AxPUgl {
   background-color: var(--cape-cod);
   border-radius: 10px;
   box-shadow: 0px 3px 0px #00000038;
@@ -1436,7 +1410,7 @@
   width: 117px;
 }
 
-.x354 .numbers-GW3d5j {
+.confirmacion_contraseña .numbers-GW3d5j {
   background-color: transparent;
   height: 104px;
   left: 1px;
@@ -1446,7 +1420,7 @@
   width: 116px;
 }
 
-.x354 .letter-GJNxCI {
+.confirmacion_contraseña .letter-GJNxCI {
   background-color: transparent;
   height: 104px;
   left: 0px;
@@ -1459,7 +1433,7 @@
   width: 116px;
 }
 
-.x354 .special-key-AxPUgl {
+.confirmacion_contraseña .special-key-AxPUgl {
   background-color: var(--cape-cod);
   border-radius: 10px;
   box-shadow: 0px 3px 0px #00000038;
@@ -1471,7 +1445,7 @@
   width: 117px;
 }
 
-.x354 .arrow-EEubRK {
+.confirmacion_contraseña .arrow-EEubRK {
   background-color: transparent;
   height: 54px;
   left: 32px;
@@ -1481,7 +1455,7 @@
   width: 54px;
 }
 
-.x354 .vector-13-Lstd8t {
+.confirmacion_contraseña .vector-13-Lstd8t {
   background-color: transparent;
   height: 43px;
   left: 2px;
@@ -1491,7 +1465,7 @@
   width: 47px;
 }
 
-.x354 .special-key-S3J8s4 {
+.confirmacion_contraseña .special-key-S3J8s4 {
   background-color: var(--cape-cod);
   border-radius: 10px;
   box-shadow: 0px 3px 0px #00000038;
@@ -1503,7 +1477,7 @@
   width: 117px;
 }
 
-.x354 .delete-JlS7V4 {
+.confirmacion_contraseña .delete-JlS7V4 {
   background-color: transparent;
   height: 54px;
   left: 32px;
@@ -1513,7 +1487,7 @@
   width: 54px;
 }
 
-.x354 .ios-TMVnXL {
+.confirmacion_contraseña .ios-TMVnXL {
   background-color: transparent;
   height: 40px;
   left: -2px;

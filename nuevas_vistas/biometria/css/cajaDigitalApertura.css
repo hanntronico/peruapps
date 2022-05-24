@@ -1,6 +1,6 @@
 /* screen - 339 */
 
-.x339 {
+.contenedorVista {
   background-color: var(--white);
   height: 1920px;
   mix-blend-mode: normal;
@@ -9,7 +9,7 @@
   width: 1080px;
 }
 
-.x339 .group-12781-GT2xaC {
+.contenedorVista .primerContenedor {
   background-color: transparent;
   height: 1920px;
   left: 0px;
@@ -18,7 +18,7 @@
   width: 1085px;
 }
 
-.x339 .group-46-io5YtB {
+.contenedorVista .segundoContenedor {
   background-color: transparent;
   height: 1920px;
   left: 0px;
@@ -27,7 +27,7 @@
   width: 1085px;
 }
 
-.x339 .getty-images-1083913610-1-j6D0r4 {
+.contenedorVista .getty-images-1083913610-1-j6D0r4 {
   background-color: transparent;
   height: 1920px;
   left: 0px;
@@ -38,7 +38,7 @@
   width: 1085px;
 }
 
-.x339 .rectangle-15-j6D0r4 {
+.contenedorVista .rectangle-15-j6D0r4 {
   background: linear-gradient(180deg, rgb(255, 255, 255) 0%, rgba(255, 255, 255, 0) 100%);
   background-color: transparent;
   height: 1920px;
@@ -49,7 +49,7 @@
   width: 1085px;
 }
 
-.x339 .frame-23811-GT2xaC {
+.contenedorVista .cajaDigital {
   align-items: center;
   background-color: transparent;
   display: flex;
@@ -61,14 +61,14 @@
   top: 0px;
 }
 
-.x339 .frame-12627-variant2-9pYjdY {
+.contenedorVista .imagenLogo {
   background-color: transparent;
   height: 176px;
   position: relative;
   width: 1080px;
 }
 
-.x339 .frame-23818-9pYjdY {
+.contenedorVista .detallesCaja {
   align-items: center;
   background-color: transparent;
   border-radius: 20px;
@@ -81,7 +81,7 @@
   position: relative;
 }
 
-.x339 .frame-23810-OSbNHr {
+.contenedorVista .contenedorTitulo {
   align-items: flex-end;
   background-color: transparent;
   display: flex;
@@ -96,7 +96,7 @@
   width: 956px;
 }
 
-.x339 .frame-23716-pvNfBx {
+.contenedorVista .contenedorIcono {
   align-items: flex-start;
   background-color: transparent;
   display: flex;
@@ -107,14 +107,14 @@
   position: relative;
 }
 
-.x339 .grupo-1140-b9dxco {
+.contenedorVista .imagenIcono {
   background-color: transparent;
   height: 48px;
   position: relative;
   width: 48px;
 }
 
-.x339 .frame-23713-b9dxco {
+.contenedorVista .tituloCaja {
   align-items: center;
   background-color: transparent;
   display: flex;
@@ -129,7 +129,7 @@
   position: relative;
 }
 
-.x339 .caja-digital-bnZNlK {
+.contenedorVista .caja-digital {
   background-color: transparent;
   height: 38px;
   letter-spacing: 0.00px;
@@ -141,7 +141,7 @@
   width: auto;
 }
 
-.x339 .frame-23624-OSbNHr {
+.contenedorVista .contenidoCaja {
   align-items: center;
   background-color: var(--white);
   border-radius: 20px;
@@ -159,7 +159,7 @@
   width: 956px;
 }
 
-.x339 .frame-12755-mEpIUB {
+.contenedorVista .contenido {
   align-items: flex-start;
   background-color: transparent;
   display: flex;
@@ -171,7 +171,7 @@
   width: 792px;
 }
 
-.x339 .frame-23641-GrquIQ {
+.contenedorVista .mensajeApertura {
   align-items: center;
   background-color: transparent;
   display: flex;
@@ -184,7 +184,7 @@
   width: 792px;
 }
 
-.x339 .group-12765-LXuzxC {
+.contenedorVista .imagenCheck {
   background-color: transparent;
   height: 29.578125px;
   margin-left: -1.059535026550293px;
@@ -192,7 +192,7 @@
   width: 29.880859375px;
 }
 
-.x339 .frame-23640-LXuzxC {
+.contenedorVista .mensajeCuentaCreada {
   align-items: flex-start;
   background-color: transparent;
   display: flex;
@@ -206,7 +206,7 @@
   width: 764px;
 }
 
-.x339 .su-cuenta-con-biomet-E1sMEJ {
+.contenedorVista p {
   -webkit-text-stroke: 1px var(--pelorous);
   background-color: transparent;
   height: 28px;
@@ -218,14 +218,14 @@
   width: 754px;
 }
 
-.x339 .group-12754-GrquIQ {
+.contenedorVista .contenido-listado {
   background-color: transparent;
   height: 464px;
   position: relative;
   width: 792px;
 }
 
-.x339 .frame-23629-7x8zjH {
+.contenedorVista .info-Cuenta {
   align-items: flex-start;
   background-color: transparent;
   display: flex;
@@ -236,7 +236,7 @@
   width: 792px;
 }
 
-.x339 .frame-23623-a6p6un {
+.contenedorVista .contenedor-listado {
   align-items: flex-start;
   background-color: transparent;
   display: flex;
@@ -250,7 +250,7 @@
   width: 301px;
 }
 
-.x339 .frame-23616-o1gRax {
+.contenedorVista .fecha-hora {
   align-items: flex-start;
   background-color: transparent;
   display: flex;
@@ -262,7 +262,7 @@
   width: 245px;
 }
 
-.x339 .fecha-y-hora-jaJ7S1 {
+.contenedorVista .fecha-y-hora {
   background-color: transparent;
   letter-spacing: 0.00px;
   line-height: normal;
@@ -273,7 +273,7 @@
   width: auto;
 }
 
-.x339 .x20072020-1230-jaJ7S1 {
+.contenedorVista .fecha {
   background-color: transparent;
   letter-spacing: 0.00px;
   line-height: normal;
@@ -283,7 +283,7 @@
   width: auto;
 }
 
-.x339 .frame-23617-o1gRax {
+.contenedorVista .frame-23617-o1gRax {
   align-items: flex-start;
   background-color: transparent;
   display: flex;
@@ -295,7 +295,7 @@
   width: 245px;
 }
 
-.x339 .tipo-de-cuenta-v9YM8h {
+.contenedorVista .tipo-de-cuenta {
   background-color: transparent;
   letter-spacing: 0.00px;
   line-height: normal;
@@ -306,7 +306,7 @@
   width: auto;
 }
 
-.x339 .ahorro-rentable-v9YM8h {
+.contenedorVista .ahorro-rentable {
   background-color: transparent;
   letter-spacing: 0.00px;
   line-height: normal;
@@ -316,7 +316,7 @@
   width: auto;
 }
 
-.x339 .frame-23620-o1gRax {
+.contenedorVista .documento-identidad {
   align-items: flex-start;
   background-color: transparent;
   display: flex;
@@ -328,7 +328,7 @@
   width: 245px;
 }
 
-.x339 .documento-de-identidad-I7RudM {
+.contenedorVista .documento-de-identidad{
   background-color: transparent;
   letter-spacing: 0.00px;
   line-height: normal;
@@ -339,7 +339,7 @@
   width: auto;
 }
 
-.x339 .dni-I7RudM {
+.contenedorVista .dni {
   background-color: transparent;
   letter-spacing: 0.00px;
   line-height: normal;
@@ -349,7 +349,7 @@
   width: auto;
 }
 
-.x339 .frame-23621-o1gRax {
+.contenedorVista .numero-identidad {
   align-items: flex-start;
   background-color: transparent;
   display: flex;
@@ -361,7 +361,7 @@
   width: 301px;
 }
 
-.x339 .n-de-documento-de-identidad-YPSc9j {
+.contenedorVista .n-de-documento-de-identidad {
   background-color: transparent;
   letter-spacing: 0.00px;
   line-height: normal;
@@ -372,7 +372,7 @@
   width: auto;
 }
 
-.x339 .x70653455-YPSc9j {
+.contenedorVista .numeroDoc {
   background-color: transparent;
   height: 23px;
   letter-spacing: 0.00px;
@@ -383,7 +383,7 @@
   width: 204px;
 }
 
-.x339 .frame-23624-o1gRax {
+.contenedorVista .correoElectronico {
   align-items: flex-start;
   background-color: transparent;
   display: flex;
@@ -395,7 +395,7 @@
   width: 245px;
 }
 
-.x339 .correo-electrnico-lKa5dX {
+.contenedorVista .correo-electrnico {
   background-color: transparent;
   letter-spacing: 0.00px;
   line-height: normal;
@@ -406,7 +406,7 @@
   width: auto;
 }
 
-.x339 .yenifergmailcom-lKa5dX {
+.contenedorVista .correoRespuesta {
   background-color: transparent;
   height: 21px;
   letter-spacing: 0.00px;
@@ -417,7 +417,7 @@
   width: 216px;
 }
 
-.x339 .frame-23623-o1gRax {
+.contenedorVista .numeroCelular {
   align-items: flex-start;
   background-color: transparent;
   display: flex;
@@ -429,7 +429,7 @@
   width: 245px;
 }
 
-.x339 .celular-GuxtcS {
+.contenedorVista .celular {
   background-color: transparent;
   letter-spacing: 0.00px;
   line-height: normal;
@@ -440,7 +440,7 @@
   width: auto;
 }
 
-.x339 .x905678341-GuxtcS {
+.contenedorVista .celularRespuesta {
   background-color: transparent;
   height: 21px;
   letter-spacing: 0.00px;
@@ -451,7 +451,7 @@
   width: 216px;
 }
 
-.x339 .frame-23627-a6p6un {
+.contenedorVista .contenedor-cuenta-1 {
   align-items: center;
   background-color: var(--alabaster);
   border-radius: 22px;
@@ -465,7 +465,7 @@
   width: 384px;
 }
 
-.x339 .frame-23637-meTzi0 {
+.contenedorVista .contenedor-cuenta-2 {
   align-items: center;
   background-color: transparent;
   display: flex;
@@ -481,7 +481,7 @@
   position: relative;
 }
 
-.x339 .frame-23638-enJerw {
+.contenedorVista .contenedor-cuenta-3 {
   align-items: center;
   background-color: transparent;
   display: flex;
@@ -495,7 +495,7 @@
   position: relative;
 }
 
-.x339 .frame-23637-zBXGGy {
+.contenedorVista .contenedor-cuenta-4 {
   align-items: center;
   background-color: transparent;
   display: flex;
@@ -511,7 +511,7 @@
   position: relative;
 }
 
-.x339 .frame-23638-Hm0mcr {
+.contenedorVista .numeroCuenta {
   align-items: center;
   background-color: transparent;
   display: flex;
@@ -523,7 +523,7 @@
   position: relative;
 }
 
-.x339 .frame-23625-HAoZ0I {
+.contenedorVista .numero-cuenta-titulo {
   align-items: flex-start;
   background-color: transparent;
   display: flex;
@@ -537,7 +537,7 @@
   position: relative;
 }
 
-.x339 .monto-yfvAxv {
+.contenedorVista .cuentaName {
   background-color: transparent;
   letter-spacing: 0.00px;
   line-height: normal;
@@ -547,7 +547,7 @@
   width: auto;
 }
 
-.x339 .frame-23626-HAoZ0I {
+.contenedorVista .cuentaNumber {
   align-items: flex-start;
   background-color: transparent;
   display: flex;
@@ -562,7 +562,7 @@
   position: relative;
 }
 
-.x339 .x0000-4545-5454-2345-VztXlz {
+.contenedorVista .cuentaNumber-info {
   background-color: transparent;
   letter-spacing: 0.00px;
   line-height: normal;
@@ -572,7 +572,7 @@
   width: auto;
 }
 
-.x339 .frame-23639-Hm0mcr {
+.contenedorVista .cci {
   align-items: center;
   background-color: transparent;
   display: flex;
@@ -584,7 +584,7 @@
   position: relative;
 }
 
-.x339 .frame-106-L3HWGr {
+.contenedorVista .cci-titulo {
   align-items: flex-start;
   background-color: transparent;
   display: flex;
@@ -595,7 +595,7 @@
   width: 206px;
 }
 
-.x339 .cci-JaUuG1 {
+.contenedorVista .cci-name {
   background-color: transparent;
   flex: 1;
   height: 28px;
@@ -607,7 +607,7 @@
   width: 206px;
 }
 
-.x339 .frame-105-L3HWGr {
+.contenedorVista .cci-numero {
   align-items: flex-start;
   background-color: transparent;
   display: flex;
@@ -618,7 +618,7 @@
   position: relative;
 }
 
-.x339 .x0000-4545-5454-2345-mL4dqt {
+.contenedorVista .cci-numero-info {
   background-color: transparent;
   height: 28px;
   letter-spacing: 0.00px;

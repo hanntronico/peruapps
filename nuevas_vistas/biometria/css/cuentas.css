@@ -1,6 +1,6 @@
 /* screen - 353 */
 
-.x353 {
+.vista-cuentas {
   background-color: var(--white);
   height: 1920px;
   mix-blend-mode: normal;
@@ -9,7 +9,7 @@
   width: 1080px;
 }
 
-.x353 .group-12781-G7ma2r {
+.vista-cuentas .vista-cuentas-2 {
   background-color: transparent;
   height: 1920px;
   left: 0px;
@@ -18,7 +18,7 @@
   width: 1085px;
 }
 
-.x353 .group-46-a9xFIw {
+.vista-cuentas .container-imagenFondo {
   background-color: transparent;
   height: 1920px;
   left: 0px;
@@ -27,7 +27,7 @@
   width: 1085px;
 }
 
-.x353 .getty-images-1083913610-1-AkzFET {
+.vista-cuentas .imagen-fondo-vista {
   background-color: transparent;
   height: 1920px;
   left: 0px;
@@ -38,7 +38,7 @@
   width: 1085px;
 }
 
-.x353 .rectangle-15-AkzFET {
+.vista-cuentas .color-fondo {
   background: linear-gradient(180deg, rgb(255, 255, 255) 0%, rgba(255, 255, 255, 0) 100%);
   background-color: transparent;
   height: 1920px;
@@ -49,7 +49,7 @@
   width: 1085px;
 }
 
-.x353 .frame-23811-G7ma2r {
+.vista-cuentas .grid-container-cuentas {
   align-items: center;
   background-color: transparent;
   display: flex;
@@ -61,14 +61,14 @@
   top: 0px;
 }
 
-.x353 .frame-12627-variant2-2Z3eYB {
+.vista-cuentas .imagen-fondo-logo {
   background-color: transparent;
   height: 176px;
   position: relative;
   width: 1080px;
 }
 
-.x353 .frame-23818-2Z3eYB {
+.vista-cuentas .container-titulo-cuentas {
   align-items: center;
   background-color: transparent;
   border-radius: 20px;
@@ -81,7 +81,7 @@
   position: relative;
 }
 
-.x353 .frame-23810-AXT3xc {
+.vista-cuentas .container-titulo-cuentas-2 {
   align-items: flex-end;
   background-color: transparent;
   display: flex;
@@ -96,7 +96,7 @@
   width: 956px;
 }
 
-.x353 .frame-23716-PC0pTN {
+.vista-cuentas .container-icono {
   align-items: flex-start;
   background-color: transparent;
   display: flex;
@@ -107,14 +107,14 @@
   position: relative;
 }
 
-.x353 .grupo-1140-8zMBCZ {
+.vista-cuentas .imagen-icono-cuentas {
   background-color: transparent;
   height: 48px;
   position: relative;
   width: 48px;
 }
 
-.x353 .frame-23713-8zMBCZ {
+.vista-cuentas .titulo-cuentas {
   align-items: center;
   background-color: transparent;
   display: flex;
@@ -129,7 +129,7 @@
   position: relative;
 }
 
-.x353 .cuentas-6TMxq0 {
+.vista-cuentas .cuentas{
   background-color: transparent;
   height: 38px;
   letter-spacing: 0.00px;
@@ -141,14 +141,14 @@
   width: auto;
 }
 
-.x353 .group-42-2Z3eYB {
+.vista-cuentas .container-detalles-cuentas {
   background-color: transparent;
   height: 464px;
   position: relative;
   width: 956px;
 }
 
-.x353 .frame-23727-eCicw3 {
+.vista-cuentas .grid-container-detalles-cuentas {
   align-items: flex-start;
   background-color: transparent;
   display: flex;
@@ -160,14 +160,14 @@
   top: 0px;
 }
 
-.x353 .group-12794-5UIs6K {
+.vista-cuentas .container-caja-digital {
   background-color: transparent;
   height: 144px;
   position: relative;
   width: 958px;
 }
 
-.x353 .rectangle-21-rFDcwV {
+.vista-cuentas .estiloFondo-caja-digital {
   background-color: var(--white);
   border-radius: 15px;
   box-shadow: 0px 2px 30px #35b1b81a;
@@ -179,7 +179,7 @@
   width: 956px;
 }
 
-.x353 .evaarrow-ios-forward-fill-rFDcwV {
+.vista-cuentas .icono-chevron {
   background-color: transparent;
   height: 50px;
   left: 876px;
@@ -189,7 +189,7 @@
   width: 50px;
 }
 
-.x353 .rectangle-5-rFDcwV {
+.vista-cuentas .border-green {
   background-color: var(--pelorous);
   border-radius: 15px 0px 0px 15px;
   height: 144px;
@@ -200,7 +200,7 @@
   width: 27px;
 }
 
-.x353 .caja-digital-rFDcwV {
+.vista-cuentas .caja-digital {
   background-color: transparent;
   height: auto;
   left: 58px;
@@ -214,14 +214,14 @@
   width: 150px;
 }
 
-.x353 .group-12795-5UIs6K {
+.vista-cuentas .container-cajaRentable {
   background-color: transparent;
   height: 144px;
   position: relative;
   width: 958px;
 }
 
-.x353 .rectangle-21-AQTkkA {
+.vista-cuentas .estilo-fondo-cajaRentable {
   background-color: var(--white);
   border-radius: 15px;
   box-shadow: 0px 2px 30px #35b1b81a;
@@ -233,7 +233,7 @@
   width: 956px;
 }
 
-.x353 .evaarrow-ios-forward-fill-AQTkkA {
+.vista-cuentas .icono-chevron {
   background-color: transparent;
   height: 50px;
   left: 876px;
@@ -243,7 +243,7 @@
   width: 50px;
 }
 
-.x353 .rectangle-5-AQTkkA {
+.vista-cuentas .border-green {
   background-color: var(--pelorous);
   border-radius: 15px 0px 0px 15px;
   height: 144px;
@@ -254,7 +254,7 @@
   width: 27px;
 }
 
-.x353 .caja-rentable-AQTkkA {
+.vista-cuentas .caja-rentable {
   background-color: transparent;
   height: auto;
   left: 58px;
@@ -268,14 +268,14 @@
   width: 458px;
 }
 
-.x353 .group-12796-5UIs6K {
+.vista-cuentas .container-cajaFlexible {
   background-color: transparent;
   height: 144px;
   position: relative;
   width: 958px;
 }
 
-.x353 .rectangle-21-2MxHNT {
+.vista-cuentas .estilo-fondo-cajaFlexible {
   background-color: var(--white);
   border-radius: 15px;
   box-shadow: 0px 2px 30px #35b1b81a;
@@ -287,7 +287,7 @@
   width: 956px;
 }
 
-.x353 .evaarrow-ios-forward-fill-2MxHNT {
+.vista-cuentas .icono-chevron {
   background-color: transparent;
   height: 50px;
   left: 876px;
@@ -297,7 +297,7 @@
   width: 50px;
 }
 
-.x353 .rectangle-5-2MxHNT {
+.vista-cuentas .border-green {
   background-color: var(--pelorous);
   border-radius: 15px 0px 0px 15px;
   height: 144px;
@@ -308,7 +308,7 @@
   width: 27px;
 }
 
-.x353 .caja-flexible-2MxHNT {
+.vista-cuentas .caja-flexible {
   background-color: transparent;
   height: auto;
   left: 58px;
