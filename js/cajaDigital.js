@@ -94,3 +94,11 @@ $( document ).ready(function() {
     });
     
     });
+
+    function miFuncCancelar() {
+      alert('Cancelar');
+    }
+
+    function miFuncSiguiente() {
+      alert('Siguiente');
+    }
