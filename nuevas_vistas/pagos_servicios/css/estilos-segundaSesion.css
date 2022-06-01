@@ -1,6 +1,6 @@
-/* screen - 298 */
+/* screen - 134 */
 
-.x298 {
+.x134 {
   background-color: var(--white);
   height: 1920px;
   mix-blend-mode: normal;
@@ -10,49 +10,51 @@
   width: 1080px;
 }
 
-.x298 .container-detalles-pago {
-  background-color: transparent;
-  height: 385px;
-  position: relative;
-  width: 678px;
-}
-
-.x298 .container-detalles-pago-2 {
+.x134 .container-info-factura {
   align-items: flex-start;
   background-color: transparent;
   display: flex;
   flex-direction: column;
   gap: 8px;
   justify-content: flex-start;
+  min-height: 464px;
+  position: relative;
+  width: 678px;
+}
+
+.x134 .group-12754-hFHEpv {
+  background-color: #F9F9FB;
+  height: 464px;
+  position: relative;
+  width: 678px;
+}
+
+.x134 .frame-23629-wqytf5 {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  justify-content: space-between;
   left: 0px;
   position: relative;
   top: 0px;
   width: 678px;
 }
 
-.x298 .group-12754-MBo3Y9 {
-  background-color: transparent;
-  height: 385px;
-  position: relative;
-  width: 678px;
-}
-
-.x298 .detalles-pago {
+.x134 .frame-23623-DvEFvT {
   align-items: flex-start;
   background-color: transparent;
   display: flex;
   flex-direction: column;
   gap: 30px;
   justify-content: flex-start;
-  left: 0px;
+  min-height: 464px;
   padding-right: 10px;
   padding-top: 10px;
-  position: absolute;
-  top: 0px;
-  width: 266px;
+  position: relative;
+  width: 253px;
 }
 
-.x298 .container-fecha-pago {
+.x134 .container-fecha {
   align-items: flex-start;
   background-color: transparent;
   display: flex;
@@ -64,7 +66,7 @@
   width: 245px;
 }
 
-.x298 .fecha-uxdxKL {
+.x134 .fecha-enOL8u {
   background-color: transparent;
   letter-spacing: 0.00px;
   line-height: normal;
@@ -75,7 +77,7 @@
   width: auto;
 }
 
-.x298 .cuenta-de-ahorros-uxdxKL {
+.x134 .cuenta-de-ahorros-enOL8u {
   background-color: transparent;
   letter-spacing: 0.00px;
   line-height: normal;
@@ -85,7 +87,7 @@
   width: auto;
 }
 
-.x298 .container-titular-pago {
+.x134 .container-titular {
   align-items: flex-start;
   background-color: transparent;
   display: flex;
@@ -97,7 +99,7 @@
   width: 245px;
 }
 
-.x298 .titular-de-servicio-0j1s0W {
+.x134 .hora-x1onYl {
   background-color: transparent;
   letter-spacing: 0.00px;
   line-height: normal;
@@ -108,7 +110,7 @@
   width: auto;
 }
 
-.x298 .pamela-salas-0j1s0W {
+.x134 .x1300-x1onYl {
   background-color: transparent;
   letter-spacing: 0.00px;
   line-height: normal;
@@ -118,7 +120,7 @@
   width: auto;
 }
 
-.x298 .container-tipoMoneda-pago {
+.x134 .container-numeroContacto {
   align-items: flex-start;
   background-color: transparent;
   display: flex;
@@ -130,7 +132,7 @@
   width: 245px;
 }
 
-.x298 .tipo-de-moneda-1jo4I9 {
+.x134 .n-de-contrato-p1rx5P {
   background-color: transparent;
   letter-spacing: 0.00px;
   line-height: normal;
@@ -141,7 +143,7 @@
   width: auto;
 }
 
-.x298 .x1234-0987-6543-0987-1jo4I9 {
+.x134 .x1300-p1rx5P {
   background-color: transparent;
   letter-spacing: 0.00px;
   line-height: normal;
@@ -151,7 +153,7 @@
   width: auto;
 }
 
-.x298 .container-entidad-pago {
+.x134 .container-tipoMoneda {
   align-items: flex-start;
   background-color: transparent;
   display: flex;
@@ -163,7 +165,7 @@
   width: 245px;
 }
 
-.x298 .entidad-iNx1d1 {
+.x134 .cuenta-de-origen-jAfbLu {
   background-color: transparent;
   letter-spacing: 0.00px;
   line-height: normal;
@@ -174,7 +176,7 @@
   width: auto;
 }
 
-.x298 .sedapal-iNx1d1 {
+.x134 .x1234-0987-6543-0987-jAfbLu {
   background-color: transparent;
   letter-spacing: 0.00px;
   line-height: normal;
@@ -184,7 +186,7 @@
   width: auto;
 }
 
-.x298 .container-cuentaOrigen-pago {
+.x134 .container-entidad {
   align-items: flex-start;
   background-color: transparent;
   display: flex;
@@ -196,7 +198,7 @@
   width: 245px;
 }
 
-.x298 .cuenta-de-origen-HA12T6 {
+.x134 .entidad-8myHzS {
   background-color: transparent;
   letter-spacing: 0.00px;
   line-height: normal;
@@ -207,41 +209,74 @@
   width: auto;
 }
 
-.x298 .numero-cuentaOrigen {
+.x134 .sedapal-8myHzS {
+  background-color: transparent;
+  height: 23px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 212px;
+}
+
+.x134 .container-entidad {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  justify-content: flex-start;
+  min-height: 49px;
+  position: relative;
+  width: 245px;
+}
+
+.x134 .n-de-operacin-VzFHnW {
   background-color: transparent;
   letter-spacing: 0.00px;
   line-height: normal;
+  margin-top: -1px;
   mix-blend-mode: normal;
   position: relative;
   text-align: left;
   width: auto;
 }
 
-.x298 .container-monto-pago {
+.x134 .x12345678-VzFHnW {
+  background-color: transparent;
+  height: 21px;
+  letter-spacing: 0.00px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 216px;
+}
+
+.x134 .container-monto-factura {
   align-items: center;
-  background-color: #f3f3f7;
+  background-color: var(--alabaster);
   border-radius: 22px;
   display: flex;
   flex-direction: column;
   gap: 0px;
-  height: 385px;
+  height: 464px;
   justify-content: center;
-  left: 266px;
   mix-blend-mode: multiply;
-  position: absolute;
-  top: 0px;
-  width: 412px;
+  position: relative;
+  width: 409px;
 }
 
-.x298 .container-monto-pago-2 {
+.x134 .frame-23637-53t9Ci {
   align-items: center;
   background-color: transparent;
   display: flex;
   flex-direction: column;
   gap: 16px;
+  height: 196px;
   justify-content: flex-start;
-  min-height: 196px;
-  min-width: 246px;
+  min-width: 247px;
   padding-bottom: 10px;
   padding-left: 10px;
   padding-right: 10px;
@@ -249,7 +284,7 @@
   position: relative;
 }
 
-.x298 .monto-pago {
+.x134 .container-monto {
   align-items: center;
   background-color: transparent;
   display: flex;
@@ -261,7 +296,7 @@
   position: relative;
 }
 
-.x298 .frame-23625-h5b5ZY {
+.x134 .frame-23625-6zttzn {
   align-items: flex-start;
   background-color: transparent;
   display: flex;
@@ -275,7 +310,7 @@
   position: relative;
 }
 
-.x298 .monto-qWSxXQ {
+.x134 .monto-81gaPM {
   background-color: transparent;
   letter-spacing: 0.00px;
   line-height: normal;
@@ -285,7 +320,7 @@
   width: auto;
 }
 
-.x298 .frame-23626-h5b5ZY {
+.x134 .frame-23626-6zttzn {
   align-items: flex-start;
   background-color: transparent;
   display: flex;
@@ -300,7 +335,7 @@
   position: relative;
 }
 
-.x298 .s10000-FwJBeA {
+.x134 .s10000-uuXRxZ {
   background-color: transparent;
   letter-spacing: 0.00px;
   line-height: normal;
@@ -310,7 +345,7 @@
   width: auto;
 }
 
-.x298 .comision-pago {
+.x134 .container-comision-montoT {
   align-items: flex-start;
   background-color: transparent;
   display: flex;
@@ -318,11 +353,11 @@
   gap: 10px;
   justify-content: flex-start;
   min-height: 56px;
-  min-width: 226px;
+  min-width: 227px;
   position: relative;
 }
 
-.x298 .frame-106-PZAEDW {
+.x134 .container-comision {
   align-items: flex-start;
   background-color: transparent;
   display: flex;
@@ -333,7 +368,7 @@
   width: 206px;
 }
 
-.x298 .comisin-0v6ZPF {
+.x134 .comisin-0wcrRh {
   background-color: transparent;
   flex: 1;
   height: 23px;
@@ -345,7 +380,7 @@
   width: 130px;
 }
 
-.x298 .s500-0v6ZPF {
+.x134 .s500-0wcrRh {
   background-color: transparent;
   letter-spacing: 0.00px;
   line-height: normal;
@@ -355,18 +390,18 @@
   width: auto;
 }
 
-.x298 .montoT-pago {
+.x134 .container-montoT {
   align-items: flex-start;
   background-color: transparent;
   display: flex;
   gap: 18px;
   justify-content: flex-start;
   min-height: 23px;
-  min-width: 226px;
+  min-width: 227px;
   position: relative;
 }
 
-.x298 .monto-total-d5ywbl {
+.x134 .monto-total-ZCKE5I {
   background-color: transparent;
   height: 23px;
   letter-spacing: 0.00px;
@@ -374,10 +409,10 @@
   mix-blend-mode: normal;
   position: relative;
   text-align: left;
-  width: 128px;
+  width: 129px;
 }
 
-.x298 .s10000-d5ywbl {
+.x134 .s10000-ZCKE5I {
   background-color: transparent;
   letter-spacing: 0.00px;
   line-height: normal;
@@ -387,19 +422,7 @@
   width: auto;
 }
 
-.x298 .container-inputClave {
-  align-items: flex-start;
-  background-color: transparent;
-  display: flex;
-  flex-direction: column;
-  gap: 24px;
-  justify-content: flex-start;
-  min-height: 208px;
-  min-width: 677px;
-  position: relative;
-}
-
-.x298 .frame-23553-default-XFsxcI {
+.x134 .container-select-nCuenta {
   align-items: flex-start;
   background-color: transparent;
   display: flex;
@@ -410,24 +433,24 @@
   min-width: 677px;
   padding-top: 8px;
   position: relative;
-  margin-top: 6%;
 }
 
-.x298 .container-labelClave {
+.x134 .container-select-label {
   align-items: center;
   background-color: transparent;
   display: flex;
   gap: 10px;
   height: 40px;
   justify-content: flex-start;
-  min-width: 72px;
+  min-width: 322px;
   padding-bottom: 10px;
   padding-right: 10px;
   padding-top: 10px;
   position: relative;
+  margin-top: 6%;
 }
 
-.x298 .texto-y7xm1V {
+.x134 .selecciona-cuenta-de-origen {
   background-color: transparent;
   height: 38px;
   letter-spacing: 0.00px;
@@ -436,76 +459,5 @@
   position: relative;
   text-align: left;
   white-space: nowrap;
-  width: auto;
-}
-
-.x298 .input-clave {
-  align-items: flex-start;
-  background-color: transparent;
-  border-radius: 15px;
-  display: flex;
-  flex-direction: column;
-  gap: 10px;
-  height: 88px;
-  justify-content: center;
-  overflow: hidden;
-  padding-bottom: 10px;
-  padding-left: 25px;
-  padding-right: 25px;
-  padding-top: 10px;
-  position: relative;
-  width: 677px;
-}
-
-.x298 .escribir-texto-imput-0Xfi8z {
-  background-color: transparent;
-  height: 20px;
-  letter-spacing: 0.00px;
-  line-height: 20px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
-  white-space: nowrap;
-  width: auto;
-}
-
-.x298 .container-mensaje-clave {
-  background-color: transparent;
-  height: 40px;
-  position: relative;
-  width: 402.88092041015625px;
-}
-
-.x298 .frame-23628-JCnR0n {
-  align-items: center;
-  background-color: transparent;
-  display: flex;
-  gap: 10px;
-  height: 40px;
-  justify-content: flex-start;
-  left: 0px;
-  position: relative;
-  top: 0px;
-  width: 403px;
-}
-
-.x298 .img-check {
-  background-color: transparent;
-  height: 29.578125px;
-  margin-left: -1.559535026550293px;
-  position: relative;
-  width: 29.880859375px;
-}
-
-.x298 .clave-capturada-correctamente-OD3Bux {
-  -webkit-text-stroke: 1px var(--limeade-2);
-  background-color: transparent;
-  height: 33px;
-  letter-spacing: 0.00px;
-  line-height: normal;
-  margin-right: -7.62939453125e-06px;
-  mix-blend-mode: normal;
-  position: relative;
-  text-align: left;
   width: auto;
 }
