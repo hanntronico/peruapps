@@ -1,0 +1,1398 @@
+/* screen - 120 */
+
+.x120 {
+  background-color: var(--white);
+  height: 1920px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1080px;
+}
+
+.x120 .rectangle-28-lko4Pt {
+  background-color: var(--white);
+  height: 106px;
+  left: 0px;
+  mix-blend-mode: normal;
+  position: absolute;
+  top: 199px;
+  width: 30px;
+}
+
+.x120 .transferencia-lko4Pt {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  justify-content: flex-start;
+  left: 0px;
+  position: absolute;
+  top: 316px;
+}
+
+.x120 .frame-23518-eXkOZe {
+  align-items: center;
+  background-color: var(--athens-gray);
+  border-radius: 0px 20px 0px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  justify-content: center;
+  min-height: 104px;
+  min-width: 144px;
+  mix-blend-mode: normal;
+  position: relative;
+}
+
+.x120 .frame-23511-srqFyn {
+  align-items: center;
+  background-color: var(--athens-gray);
+  border-radius: 0px 20px 0px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  justify-content: center;
+  min-height: 104px;
+  min-width: 144px;
+  mix-blend-mode: normal;
+  position: relative;
+}
+
+.x120 .frame-23506-dsbEdT {
+  align-items: center;
+  background-color: var(--athens-gray);
+  border-radius: 0px 20px 20px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  height: 104px;
+  justify-content: center;
+  mix-blend-mode: normal;
+  padding-bottom: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  position: relative;
+  width: 144px;
+}
+
+.x120 .frame-23500-6wJilx {
+  background-color: transparent;
+  min-height: 22px;
+  min-width: 22px;
+  position: relative;
+}
+
+.x120 .mis-productos-6wJilx {
+  background-color: transparent;
+  height: 22px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: auto;
+}
+
+.x120 .frame-23525-eXkOZe {
+  align-items: center;
+  background-color: var(--athens-gray);
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  justify-content: center;
+  min-height: 104px;
+  min-width: 144px;
+  mix-blend-mode: normal;
+  position: relative;
+}
+
+.x120 .frame-23511-9UhTI6 {
+  align-items: center;
+  background-color: var(--athens-gray);
+  border-radius: 0px 20px 0px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  justify-content: center;
+  min-height: 104px;
+  min-width: 144px;
+  mix-blend-mode: normal;
+  position: relative;
+}
+
+.x120 .frame-23506-PWShxY {
+  align-items: center;
+  background-color: var(--athens-gray);
+  border-radius: 0px 20px 20px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  height: 104px;
+  justify-content: center;
+  mix-blend-mode: normal;
+  padding-bottom: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  position: relative;
+  width: 144px;
+}
+
+.x120 .frame-23501-6mAhBm {
+  background-color: transparent;
+  min-height: 22px;
+  min-width: 22px;
+  position: relative;
+}
+
+.x120 .pagos-6mAhBm {
+  background-color: transparent;
+  height: 22px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: auto;
+}
+
+.x120 .frame-23526-eXkOZe {
+  align-items: center;
+  background-color: var(--athens-gray);
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  justify-content: center;
+  min-height: 104px;
+  min-width: 144px;
+  mix-blend-mode: normal;
+  position: relative;
+}
+
+.x120 .frame-23511-0lXeN5 {
+  align-items: center;
+  background-color: var(--green-vogue);
+  border-radius: 0px 20px 20px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  justify-content: center;
+  min-height: 104px;
+  min-width: 144px;
+  mix-blend-mode: normal;
+  position: relative;
+}
+
+.x120 .frame-23506-7L4dBn {
+  align-items: center;
+  background-color: var(--green-vogue);
+  border-radius: 0px 20px 20px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  height: 104px;
+  justify-content: center;
+  mix-blend-mode: normal;
+  padding-bottom: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  position: relative;
+  width: 144px;
+}
+
+.x120 .frame-23502-AfsVFm {
+  background-color: transparent;
+  min-height: 22px;
+  min-width: 22px;
+  position: relative;
+}
+
+.x120 .transferencia-AfsVFm {
+  background-color: transparent;
+  height: 22px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: auto;
+}
+
+.x120 .frame-23522-eXkOZe {
+  align-items: center;
+  background-color: var(--athens-gray);
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  justify-content: center;
+  min-height: 104px;
+  min-width: 144px;
+  mix-blend-mode: normal;
+  position: relative;
+}
+
+.x120 .frame-23511-oxpKgd {
+  align-items: center;
+  background-color: var(--athens-gray);
+  border-radius: 0px 20px 20px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  justify-content: center;
+  min-height: 104px;
+  min-width: 144px;
+  mix-blend-mode: normal;
+  position: relative;
+}
+
+.x120 .frame-23506-eGch7x {
+  align-items: center;
+  background-color: var(--athens-gray);
+  border-radius: 0px 20px 20px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  height: 104px;
+  justify-content: center;
+  mix-blend-mode: normal;
+  padding-bottom: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  position: relative;
+  width: 144px;
+}
+
+.x120 .frame-23519-xzTZ44 {
+  background-color: transparent;
+  min-height: 22px;
+  min-width: 22px;
+  position: relative;
+}
+
+.x120 .desembolso-de-lneas-xzTZ44 {
+  background-color: transparent;
+  height: 44px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  width: auto;
+}
+
+.x120 .frame-23523-eXkOZe {
+  align-items: center;
+  background-color: var(--athens-gray);
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  justify-content: center;
+  min-height: 104px;
+  min-width: 144px;
+  mix-blend-mode: normal;
+  position: relative;
+}
+
+.x120 .frame-23511-MODe62 {
+  align-items: center;
+  background-color: var(--athens-gray);
+  border-radius: 0px 20px 0px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  justify-content: center;
+  min-height: 104px;
+  min-width: 144px;
+  mix-blend-mode: normal;
+  position: relative;
+}
+
+.x120 .frame-23506-8rWEpT {
+  align-items: center;
+  background-color: var(--athens-gray);
+  border-radius: 0px 20px 20px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  height: 104px;
+  justify-content: center;
+  mix-blend-mode: normal;
+  padding-bottom: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  position: relative;
+  width: 144px;
+}
+
+.x120 .frame-23520-kBEp47 {
+  background-color: transparent;
+  min-height: 22px;
+  min-width: 22px;
+  position: relative;
+}
+
+.x120 .abrir-depsito-a-plazo-fijo-kBEp47 {
+  background-color: transparent;
+  height: 44px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  width: auto;
+}
+
+.x120 .frame-23527-eXkOZe {
+  align-items: center;
+  background-color: var(--athens-gray);
+  border-radius: 0px 0px 20px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  justify-content: center;
+  min-height: 104px;
+  min-width: 144px;
+  mix-blend-mode: normal;
+  position: relative;
+}
+
+.x120 .frame-23511-E85Edu {
+  align-items: center;
+  background-color: var(--athens-gray);
+  border-radius: 0px 20px 20px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  justify-content: center;
+  min-height: 104px;
+  min-width: 144px;
+  mix-blend-mode: normal;
+  position: relative;
+}
+
+.x120 .frame-23506-l1b4EY {
+  align-items: center;
+  background-color: var(--athens-gray);
+  border-radius: 0px 20px 20px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  height: 104px;
+  justify-content: center;
+  mix-blend-mode: normal;
+  padding-bottom: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  position: relative;
+  width: 144px;
+}
+
+.x120 .frame-23513-A0qyl8 {
+  background-color: transparent;
+  min-height: 22px;
+  min-width: 22px;
+  position: relative;
+}
+
+.x120 .configuracin-A0qyl8 {
+  background-color: transparent;
+  height: 22px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: auto;
+}
+
+.x120 .frame-23676-lko4Pt {
+  align-items: flex-end;
+  background-color: transparent;
+  display: flex;
+  height: 186px;
+  justify-content: space-between;
+  left: 0px;
+  padding-bottom: 10px;
+  padding-left: 62px;
+  padding-right: 62px;
+  padding-top: 10px;
+  position: absolute;
+  top: 0px;
+  width: 1080px;
+}
+
+.x120 .frame-12626-I6xvF1 {
+  background-color: transparent;
+  margin-left: -0.3648681640625px;
+  min-height: 72px;
+  min-width: 168.270263671875px;
+  position: relative;
+}
+
+.x120 .frame-12790-I6xvF1 {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  gap: 10px;
+  justify-content: flex-start;
+  min-height: 72px;
+  min-width: 72px;
+  position: relative;
+}
+
+.x120 .group-49-QwYzYh {
+  background-color: transparent;
+  height: 72px;
+  position: relative;
+  width: 72px;
+}
+
+.x120 .ellipse-8-yGJEd5 {
+  background-color: transparent;
+  border-radius: 36px;
+  height: 72px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 72px;
+}
+
+.x120 .group-yGJEd5 {
+  background-color: transparent;
+  height: 38px;
+  left: 24px;
+  position: absolute;
+  top: 16px;
+  width: 28px;
+}
+
+.x120 .frame-23790-lko4Pt {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 48px;
+  justify-content: flex-start;
+  left: 225px;
+  position: absolute;
+  top: 384px;
+}
+
+.x120 .frame-23534-pQ1no7 {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  gap: 0px;
+  justify-content: flex-start;
+  min-height: 80px;
+  position: relative;
+  width: 793px;
+}
+
+.x120 .tab1-xEPBVD {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  gap: 0px;
+  justify-content: flex-start;
+  min-height: 80px;
+  min-width: 793px;
+  position: relative;
+}
+
+.x120 .frame-23534-xv8O1x {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 23px 0px 0px 23px;
+  display: flex;
+  gap: 10px;
+  height: 80px;
+  justify-content: center;
+  mix-blend-mode: normal;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  position: relative;
+  width: 264px;
+}
+
+.x120 .servicios-Ri80UC {
+  background-color: transparent;
+  height: 54px;
+  letter-spacing: 0.00px;
+  line-height: 27px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  width: auto;
+}
+
+.x120 .frame-23533-xv8O1x {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  gap: 10px;
+  height: 80px;
+  justify-content: center;
+  mix-blend-mode: normal;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  position: relative;
+  width: 265px;
+}
+
+.x120 .instituciones-vbz7uG {
+  background-color: transparent;
+  height: 54px;
+  letter-spacing: 0.00px;
+  line-height: 27px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  width: auto;
+}
+
+.x120 .frame-23535-xv8O1x {
+  align-items: center;
+  background-color: var(--pelorous);
+  border-radius: 0px 23px 23px 0px;
+  display: flex;
+  gap: 10px;
+  height: 80px;
+  justify-content: center;
+  mix-blend-mode: normal;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  position: relative;
+  width: 264px;
+}
+
+.x120 .de-crditos-lWUgd8 {
+  background-color: transparent;
+  height: 54px;
+  letter-spacing: 0.00px;
+  line-height: 27px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  width: auto;
+}
+
+.x120 .efectivo-mvil-xEPBVD {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 27px;
+  margin-right: -77px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  width: auto;
+}
+
+.x120 .frame-23716-pQ1no7 {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  gap: 0px;
+  justify-content: flex-start;
+  min-height: 48px;
+  min-width: 402px;
+  position: relative;
+}
+
+.x120 .frame-12806-FQxnP2 {
+  background-color: transparent;
+  height: 48px;
+  min-width: 61px;
+  position: relative;
+}
+
+.x120 .frame-23713-FQxnP2 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 10px;
+  height: 48px;
+  justify-content: flex-start;
+  min-width: 341px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  position: relative;
+}
+
+.x120 .retiro-efectivo-mvil-cQcUt5 {
+  background-color: transparent;
+  height: 38px;
+  letter-spacing: 0.00px;
+  line-height: 38px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.x120 .group-12636-default-pQ1no7 {
+  background-color: transparent;
+  height: 48px;
+  position: relative;
+  width: 793px;
+}
+
+.x120 .componente-2-vZdMaO {
+  background-color: transparent;
+  height: 5px;
+  left: 43px;
+  position: absolute;
+  top: 19px;
+  width: 708px;
+}
+
+.x120 .componente-5-vZdMaO {
+  background-color: transparent;
+  height: 48px;
+  left: 745px;
+  position: absolute;
+  top: -0px;
+  width: 48px;
+}
+
+.x120 .componente-4-vZdMaO {
+  background-color: transparent;
+  height: 48px;
+  left: 373px;
+  position: absolute;
+  top: -0px;
+  width: 48px;
+}
+
+.x120 .componente-3-vZdMaO {
+  background-color: transparent;
+  height: 48px;
+  left: 0px;
+  position: absolute;
+  top: -0px;
+  width: 48px;
+}
+
+.x120 .frame-23734-pQ1no7 {
+  align-items: center;
+  background-color: var(--alabaster);
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  justify-content: flex-start;
+  min-height: 888px;
+  mix-blend-mode: normal;
+  padding-bottom: 48px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 48px;
+  position: relative;
+  width: 793px;
+}
+
+.x120 .frame-23553-x5F4lD {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  justify-content: flex-start;
+  min-height: 144px;
+  min-width: 677px;
+  padding-top: 8px;
+  position: relative;
+}
+
+.x120 .frame-23791-oWhvew {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 10px;
+  height: 40px;
+  justify-content: flex-start;
+  min-width: 322px;
+  padding-bottom: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  position: relative;
+}
+
+.x120 .selecciona-cuenta-de-origen-GRAYXd {
+  background-color: transparent;
+  height: 38px;
+  letter-spacing: 0.00px;
+  line-height: 38px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.x120 .inactivo-oWhvew {
+  align-items: flex-start;
+  background-color: transparent;
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 88px;
+  justify-content: center;
+  overflow: hidden;
+  padding-bottom: 10px;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 10px;
+  position: relative;
+  width: 677px;
+}
+
+.x120 .frame-23656-YGeM5j {
+  align-items: center;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  min-height: 50px;
+  position: relative;
+}
+
+.x120 .frame-23654-BIO8mv {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex: 1;
+  gap: 10px;
+  justify-content: flex-start;
+  min-height: 50px;
+  position: relative;
+}
+
+.x120 .frame-23653-Dmwh95 {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  gap: 10px;
+  justify-content: flex-start;
+  min-height: 50px;
+  position: relative;
+}
+
+.x120 .nro-cuenta-GIuV5B {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  margin-top: -1px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.x120 .x0034374738573857358735353-GIuV5B {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.x120 .frame-23657-Dmwh95 {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  gap: 10px;
+  justify-content: flex-start;
+  min-height: 40px;
+  min-width: 79px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  position: relative;
+}
+
+.x120 .s657-xnGOrg {
+  background-color: transparent;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.x120 .vector-BIO8mv {
+  background-color: transparent;
+  height: 14.05322265625px;
+  margin-right: -0.11532754979532456px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 25.230712890625px;
+}
+
+.x120 .frame-23733-x5F4lD {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  gap: 23px;
+  justify-content: flex-start;
+  min-height: 144px;
+  min-width: 677px;
+  position: relative;
+}
+
+.x120 .frame-23556-x3O8jH {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  justify-content: flex-start;
+  min-height: 144px;
+  min-width: 327px;
+  padding-top: 8px;
+  position: relative;
+}
+
+.x120 .frame-23645-sjZK3g {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 10px;
+  height: 40px;
+  justify-content: flex-start;
+  min-width: 189px;
+  padding-bottom: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  position: relative;
+}
+
+.x120 .texto-xtPAsj {
+  background-color: transparent;
+  height: 38px;
+  letter-spacing: 0.00px;
+  line-height: 38px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.x120 .inactivo-sjZK3g {
+  align-items: flex-start;
+  background-color: transparent;
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 88px;
+  justify-content: center;
+  overflow: hidden;
+  padding-bottom: 10px;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 10px;
+  position: relative;
+  width: 327px;
+}
+
+.x120 .frame-23572-la1bqA {
+  align-items: center;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  gap: 10px;
+  justify-content: flex-start;
+  min-height: 20px;
+  position: relative;
+}
+
+.x120 .escribir-texto-imput-KByDPL {
+  background-color: transparent;
+  flex: 1;
+  height: 20px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: 242.76922607421875px;
+}
+
+.x120 .vector-KByDPL {
+  background-color: transparent;
+  height: 14.05322265625px;
+  margin-right: -0.11532754979526771px;
+  mix-blend-mode: normal;
+  position: relative;
+  width: 25.230712890625px;
+}
+
+.x120 .frame-23555-x3O8jH {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  justify-content: flex-start;
+  min-height: 144px;
+  min-width: 327px;
+  padding-top: 8px;
+  position: relative;
+}
+
+.x120 .frame-23645-Ivpt5K {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 10px;
+  height: 40px;
+  justify-content: flex-start;
+  min-width: 180px;
+  padding-bottom: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  position: relative;
+}
+
+.x120 .texto-eP52Qt {
+  background-color: transparent;
+  height: 38px;
+  letter-spacing: 0.00px;
+  line-height: 38px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.x120 .inactivo-Ivpt5K {
+  align-items: flex-start;
+  background-color: transparent;
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 88px;
+  justify-content: center;
+  overflow: hidden;
+  padding-bottom: 10px;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 10px;
+  position: relative;
+  width: 327px;
+}
+
+.x120 .frame-23572-tudhz6 {
+  align-items: center;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  gap: 10px;
+  justify-content: flex-start;
+  min-height: 20px;
+  position: relative;
+}
+
+.x120 .escribir-texto-imput-BiqBSp {
+  background-color: transparent;
+  color: var(--pelorous);
+  flex: 1;
+  font-family: var(--font-family-ubuntu);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 700;
+  height: 20px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: 277px;
+}
+
+.x120 .frame-23734-x5F4lD {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  gap: 23px;
+  justify-content: flex-start;
+  min-height: 144px;
+  min-width: 684px;
+  position: relative;
+}
+
+.x120 .frame-23556-i4xwqM {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  justify-content: flex-start;
+  min-height: 144px;
+  min-width: 327px;
+  padding-top: 8px;
+  position: relative;
+}
+
+.x120 .frame-23645-meKFLa {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 10px;
+  height: 40px;
+  justify-content: flex-start;
+  min-width: 270px;
+  padding-bottom: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  position: relative;
+}
+
+.x120 .texto-qbWBX9 {
+  background-color: transparent;
+  height: 38px;
+  letter-spacing: 0.00px;
+  line-height: 38px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.x120 .inactivo-meKFLa {
+  align-items: flex-start;
+  background-color: transparent;
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 88px;
+  justify-content: center;
+  overflow: hidden;
+  padding-bottom: 10px;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 10px;
+  position: relative;
+  width: 327px;
+}
+
+.x120 .frame-23572-MmtfFI {
+  align-items: center;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  gap: 10px;
+  justify-content: flex-start;
+  min-height: 20px;
+  position: relative;
+}
+
+.x120 .escribir-texto-imput-L4ysqS {
+  background-color: transparent;
+  flex: 1;
+  height: 20px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: 277px;
+}
+
+.x120 .frame-23555-i4xwqM {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  justify-content: flex-start;
+  min-height: 144px;
+  min-width: 334px;
+  padding-top: 8px;
+  position: relative;
+}
+
+.x120 .frame-23645-VL6VRP {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 10px;
+  height: 40px;
+  justify-content: flex-start;
+  min-width: 334px;
+  padding-bottom: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  position: relative;
+}
+
+.x120 .texto-wAJYYG {
+  background-color: transparent;
+  height: 38px;
+  letter-spacing: -0.72px;
+  line-height: 38px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.x120 .inactivo-VL6VRP {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: transparent;
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 88px;
+  justify-content: center;
+  overflow: hidden;
+  padding-bottom: 10px;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 10px;
+  position: relative;
+}
+
+.x120 .frame-23572-bnoP1R {
+  align-items: center;
+  align-self: stretch;
+  background-color: transparent;
+  display: flex;
+  gap: 10px;
+  justify-content: flex-start;
+  min-height: 20px;
+  position: relative;
+}
+
+.x120 .escribir-texto-imput-EznZmh {
+  background-color: transparent;
+  flex: 1;
+  height: 20px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: 284px;
+}
+
+.x120 .frame-23553-default-x5F4lD {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  justify-content: flex-start;
+  min-height: 144px;
+  min-width: 677px;
+  padding-top: 8px;
+  position: relative;
+}
+
+.x120 .frame-23642-prGUJ6 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 10px;
+  height: 40px;
+  justify-content: flex-start;
+  min-width: 466px;
+  padding-bottom: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  position: relative;
+}
+
+.x120 .texto-Gs825h {
+  background-color: transparent;
+  height: 38px;
+  letter-spacing: 0.00px;
+  line-height: 38px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.x120 .inactivo-prGUJ6 {
+  align-items: flex-start;
+  background-color: transparent;
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 88px;
+  justify-content: center;
+  overflow: hidden;
+  padding-bottom: 10px;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 10px;
+  position: relative;
+  width: 677px;
+}
+
+.x120 .escribir-texto-imput-RfxjLK {
+  background-color: transparent;
+  color: #dbdbdb;
+  font-family: var(--font-family-ubuntu);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+  height: 20px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.x120 .frame-23730-x5F4lD {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 24px;
+  height: 120px;
+  justify-content: center;
+  position: relative;
+  width: 793px;
+}
+
+.x120 .frame-23537-default-5VDuYP {
+  align-items: center;
+  background-color: var(--pelorous);
+  border-radius: 20px;
+  display: flex;
+  gap: 0px;
+  height: 88px;
+  justify-content: center;
+  mix-blend-mode: normal;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  position: relative;
+  width: 326px;
+}
+
+.x120 .actualizar-DXJrrx {
+  background-color: transparent;
+  height: 34px;
+  letter-spacing: 0.00px;
+  line-height: 33.2px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: auto;
+}
+
+.x120 .frame-23755-lko4Pt {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  justify-content: flex-start;
+  left: 225px;
+  position: absolute;
+  top: 264px;
+}
+
+.x120 .frame-23541-K1FTT5 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 8px;
+  height: 56px;
+  justify-content: flex-start;
+  min-width: 321px;
+  position: relative;
+}
+
+.x120 .frame-23502-dgaB7u {
+  background-color: transparent;
+  height: 56px;
+  position: relative;
+  width: 56px;
+}
+
+.x120 .frame-23632-dgaB7u {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 10px;
+  height: 56px;
+  justify-content: center;
+  min-width: 257px;
+  padding-bottom: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  position: relative;
+}
+
+.x120 .depsito-a-plazo-fijo-Ly6i97 {
+  background-color: transparent;
+  height: 45px;
+  letter-spacing: 0.00px;
+  line-height: 45px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.x120 .vector-72-K1FTT5 {
+  background-color: transparent;
+  height: 1px;
+  position: relative;
+  width: 793px;
+}
