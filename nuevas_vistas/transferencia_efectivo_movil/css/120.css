@@ -690,18 +690,7 @@
   color: #C9C8C8;
 }
 
-/* .x292 .escribir-texto-imput-GmUAHu {
-  background-color: transparent;
-  height: 20px;
-  letter-spacing: 0.00px;
-  line-height: 20px;
-  mix-blend-mode: normal;
-  position: relative;
-  white-space: nowrap;
-  width: auto;
-} */
-
-.x292 .grupo-767-eJvYji {
+.x292 .container-clave-correcta {
   background-color: transparent;
   height: 40px;
   position: relative;
@@ -1392,7 +1381,7 @@
   text-align: left;
   width: 793px;
 }
-.x291 .frame-12755-DhcQDx {
+.x291 .container-detalles-transacion {
   align-items: flex-start;
   background-color: transparent;
   display: flex;
@@ -1436,7 +1425,7 @@
   width: 253px;
 }
 
-.x291 .frame-23616-KxqgIr {
+.x291 .container-cuenta-origen {
   align-items: flex-start;
   background-color: transparent;
   display: flex;
@@ -1469,7 +1458,7 @@
   width: auto;
 }
 
-.x291 .frame-23617-KxqgIr {
+.x291 .container-titular-origen {
   align-items: flex-start;
   background-color: transparent;
   display: flex;

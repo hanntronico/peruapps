@@ -8,7 +8,9 @@
   <meta name="og:type" content="website" />
   <meta name="twitter:card" content="photo" />
   <link rel="stylesheet" href="css/120.css">
+  <link rel="stylesheet" href="css/transferenciaInterna.css">
   <link rel="stylesheet" href="../pagos_servicios/css/295.css">
+  <link rel="stylesheet" href="../transferencias_internas/css/64.css">
   <link rel="stylesheet" type="text/css" href="../pagos_servicios/css/132.css" />
   <link rel="stylesheet" type="text/css" href="css/styleguide.css" />
   <link rel="stylesheet" type="text/css" href="css/globals.css" />
@@ -17,7 +19,7 @@
 <body style="margin: 0; background: #ffffff">
   <input type="hidden" id="anPageName" name="page" value="132" />
   <div class="container-center-horizontal">
-    <div class="vista-pagos x120 x295 x291 x292 x293 x361 screen">
+    <div class="vista-pagos x120 x295 x291 x292 x293 x361 x64 screen">
       <div class="pagos-x5DRz5">
         <a href="">
           <div class="container-mis-productos">
@@ -88,7 +90,7 @@
 
         <div class="btn-tabs">
           <button class=" tablink btn-transferenciaI border-1px-pelorous ubuntu-medium-pelorous-20px  "
-            onclick="openPage(event, 'transferenciaI')">
+            onclick="openPage(event, 'transferenciaI')" id="defaultOpen">
             Transferencias <br> internas
           </button>
           <button class="tablink btn-transferenciaE border-1px-pelorous ubuntu-medium-pelorous-20px"
@@ -96,12 +98,55 @@
             Transferencias <br> externas
           </button>
           <button class="tablink btn-efectivo border-1px-pelorous ubuntu-medium-pelorous-20px"
-            onclick="openPage(event, 'efectivo')" id="defaultOpen">
+            onclick="openPage(event, 'efectivo')">
             Efectivo <br> móvil
           </button>
         </div>
         <div id="transferenciaI" class="tabcontent">
-          <h1>Transferencias internas</h1>
+          <div class="container-mensaje-transferenciaI">
+            <div class="puedes-agregar-una-o-eoQh1L ubuntu-normal-blue-zodiac-24px">
+              <span class="span0-Vdr68g ubuntu-normal-blue-zodiac-24px">Puedes agregar una operación frecuente marcando
+                el check “</span><span class="span1-Vdr68g ubuntu-bold-blue-zodiac-24px">Agregar operación
+                frecuente”</span><span class="span2-Vdr68g ubuntu-normal-blue-zodiac-24px"> durante una
+                transacción&nbsp;&nbsp;</span>
+            </div>
+          </div>
+          <div class="container-botones-transferenciaI">
+            <a href="../transferencias_internas/65.html">
+              <div class="container-btn-transferencia-propia">
+                <div class="frame-23531-NzPfpy">
+                  <div class="frame-23648-ksk9pb">
+                    <div class="rectangle-34-AFWeix"></div>
+                    <div class="ellipse-9-AFWeix"></div>
+                    <div class="titulo-transferencia-propia">
+                      <div class="cable-internet-I992TA ubuntu-medium-green-vogue-24px">
+                        Transferencia<br />propia
+                      </div>
+                    </div>
+                  </div>
+                  <img class="evaarrow-ios-forward-fill-ksk9pb" src="img/eva-arrow-ios-forward-fill@2x.svg" />
+                </div>
+                <img class="grupo-1139-NzPfpy" src="img/grupo-1139@2x.svg" />
+              </div>
+            </a>
+            <a href="">
+              <div class="container-transferencia-tercero">
+                <div class="frame-23535-6hfcSx">
+                  <div class="frame-23648-UaxQHB">
+                    <div class="rectangle-34-U21VLR"></div>
+                    <div class="ellipse-9-U21VLR"></div>
+                    <div class="titulo-transferencia-tercero">
+                      <div class="cable-internet-qw9NXE ubuntu-medium-green-vogue-24px">
+                        Transferencias<br />a terceros
+                      </div>
+                    </div>
+                  </div>
+                  <img class="evaarrow-ios-forward-fill-UaxQHB" src="img/eva-arrow-ios-forward-fill@2x.svg" />
+                </div>
+                <img class="icon-user-6hfcSx" src="img/grupo-1137@2x.svg" />
+              </div>
+            </a>
+          </div>
         </div>
         <div id="transferenciaE" class="tabcontent">
           <h1>Transferencias externas</h1>
@@ -222,10 +267,8 @@
           </div>
           <div id="svg_wrap"></div>
 
-
-
           <div class=" frame-23734-FjPEjd">
-            <section id="step1" class="step-content-body">
+            <section>
               <div class="container-selecciona-cuenta">
                 <div class="container-select-cuenta">
                   <div class="frame-23791-oWhvew">
@@ -299,16 +342,16 @@
               </div>
             </section>
 
-            <section id="step2" class="step-content-body out">
-              <div class="frame-12755-DhcQDx">
+            <section>
+              <div class="container-detalles-transacion">
                 <div class="group-12754-eXeqqe">
                   <div class="frame-23629-OG3JDS">
                     <div class="frame-23623-j9xMnv">
-                      <div class="frame-23616-KxqgIr">
+                      <div class="container-cuenta-origen">
                         <div class="fecha-JITUsm ubuntu-bold-blue-zodiac-20px">Cuenta de origen</div>
                         <div class="cuenta-de-ahorros-JITUsm ubuntu-normal-abbey-20px">00123-0987-0987-0987</div>
                       </div>
-                      <div class="frame-23617-KxqgIr">
+                      <div class="container-titular-origen">
                         <div class="hora-CquKQj ubuntu-bold-blue-zodiac-20px">Titular de origen</div>
                         <div class="x1300-CquKQj ubuntu-normal-abbey-20px">13:00</div>
                       </div>
@@ -349,16 +392,16 @@
             </section>
 
             <!--Esta seccion es la que va dentro del segundo paso-->
-            <section id="step3" class="step-content-body out">
-              <div class="frame-12755-DhcQDx">
+            <section>
+              <div class="container-detalles-transacion">
                 <div class="group-12754-eXeqqe">
                   <div class="frame-23629-OG3JDS">
                     <div class="frame-23623-j9xMnv">
-                      <div class="frame-23616-KxqgIr">
+                      <div class="container-cuenta-origen">
                         <div class="fecha-JITUsm ubuntu-bold-blue-zodiac-20px">Cuenta de origen</div>
                         <div class="cuenta-de-ahorros-JITUsm ubuntu-normal-abbey-20px">00123-0987-0987-0987</div>
                       </div>
-                      <div class="frame-23617-KxqgIr">
+                      <div class="container-titular-origen">
                         <div class="hora-CquKQj ubuntu-bold-blue-zodiac-20px">Titular de origen</div>
                         <div class="x1300-CquKQj ubuntu-normal-abbey-20px">13:00</div>
                       </div>
@@ -405,7 +448,7 @@
                     placeholder="****">
                   </input>
                 </div>
-                <div class="grupo-767-eJvYji">
+                <div class="container-clave-correcta">
                   <div class="frame-23628-xEdGcq">
                     <img class="group-12764-NVPp97" src="img/group-12764-3@2x.svg" />
                     <div class="clave-capturada-correctamente-NVPp97 opensans-regular-normal-limeade-24px">
@@ -416,7 +459,7 @@
               </div>
             </section>
 
-            <section id="step4" class="step-content-body out">
+            <section>
               <div class="frame-23624-BglAky">
                 <div class="frame-12755-Z6LWMu">
                   <div class="frame-23641-HkVDzH">
