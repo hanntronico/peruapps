@@ -22,7 +22,7 @@
   top: 316px;
 }
 
-.x36 .frame-23518-31qnUR {
+.x36 .container-misProductos {
   align-items: center;
   background-color: var(--athens-gray);
   border-radius: 0px 20px 0px 0px;
@@ -87,7 +87,7 @@
   width: auto;
 }
 
-.x36 .frame-23525-31qnUR {
+.x36 .container-pagos-nav {
   align-items: center;
   background-color: var(--athens-gray);
   display: flex;
@@ -102,7 +102,6 @@
 
 .x36 .frame-23511-3JxDHe {
   align-items: center;
-  background-color: var(--green-vogue);
   border-radius: 0px 20px 20px 0px;
   display: flex;
   flex-direction: column;
@@ -151,7 +150,7 @@
   width: auto;
 }
 
-.x36 .frame-23526-31qnUR {
+.x36 .container-trasferencia-nav {
   align-items: center;
   background-color: var(--athens-gray);
   display: flex;
@@ -215,7 +214,7 @@
   width: auto;
 }
 
-.x36 .frame-23522-31qnUR {
+.x36 .container-desembolso-nav {
   align-items: center;
   background-color: var(--athens-gray);
   display: flex;
@@ -278,7 +277,7 @@
   width: auto;
 }
 
-.x36 .frame-23523-31qnUR {
+.x36 .container-abrirDeposito-nav {
   align-items: center;
   background-color: var(--athens-gray);
   display: flex;
@@ -341,7 +340,7 @@
   width: auto;
 }
 
-.x36 .frame-23527-31qnUR {
+.x36 .container-configuracion-nav {
   align-items: center;
   background-color: var(--athens-gray);
   border-radius: 0px 0px 20px 0px;
@@ -406,7 +405,7 @@
   width: auto;
 }
 
-.x36 .producto-jVdfWA {
+.x36 .container-titulo-producto {
   align-items: flex-start;
   background-color: transparent;
   display: flex;
@@ -429,7 +428,7 @@
   position: relative;
 }
 
-.x36 .frame-23527-WmCEye {
+.x36 .container-icono-producto {
   align-items: center;
   background-color: transparent;
   display: flex;
@@ -465,7 +464,7 @@
   position: relative;
 }
 
-.x36 .frame-23636-WmCEye {
+.x36 .container-producto {
   align-items: center;
   background-color: transparent;
   display: flex;
@@ -492,13 +491,13 @@
 }
 
 .x36 .vector-72-WYgv84 {
-  background-color: transparent;
+  background-color: #DBDBDB;
   height: 1px;
   position: relative;
   width: 793px;
 }
 
-.x36 .frame-23537-GxxkMU {
+.x36 .container-nueva-cuenta {
   align-items: center;
   background-color: transparent;
   border-radius: 20px;
@@ -514,6 +513,7 @@
   position: absolute;
   top: 634px;
   width: 466px;
+  cursor: pointer;
 }
 
 .x36 .carbonadd-ijxxPL {
@@ -536,7 +536,7 @@
   width: auto;
 }
 
-.x36 .frame-23676-GxxkMU {
+.x36 .container-logo-empresa {
   align-items: flex-end;
   background-color: transparent;
   display: flex;
@@ -560,7 +560,7 @@
   position: relative;
 }
 
-.x36 .frame-12790-ISdXbi {
+.x36 .container-btn-salida {
   align-items: flex-start;
   background-color: transparent;
   display: flex;
@@ -578,7 +578,7 @@
   width: 72px;
 }
 
-.x36 .ellipse-8-kVkXci {
+.x36 .container-btnSalida {
   background-color: transparent;
   border-radius: 36px;
   height: 72px;
@@ -586,6 +586,7 @@
   position: absolute;
   top: 0px;
   width: 72px;
+  cursor: pointer;
 }
 
 .x36 .group-kVkXci {
@@ -597,7 +598,7 @@
   width: 28px;
 }
 
-.x36 .frame-23706-GxxkMU {
+.x36 .container-compra {
   align-items: flex-start;
   background-color: var(--alabaster);
   border-radius: 15px;
@@ -676,7 +677,7 @@
   width: auto;
 }
 
-.x36 .frame-23709-GxxkMU {
+.x36 .container-venta {
   align-items: flex-start;
   background-color: var(--alabaster);
   border-radius: 15px;
@@ -750,7 +751,7 @@
   width: auto;
 }
 
-.x36 .frame-23710-GxxkMU {
+.x36 .container-tipo-cambio {
   align-items: center;
   background-color: transparent;
   display: flex;
@@ -802,7 +803,7 @@
   position: relative;
 }
 
-.x36 .frame-23717-LHhSj5 {
+.x36 .container-cuentas {
   align-items: center;
   background-color: transparent;
   display: flex;
@@ -830,7 +831,7 @@
   width: 48px;
 }
 
-.x36 .frame-23713-W455Ra {
+.x36 .container-cuentas-titulo {
   align-items: center;
   background-color: transparent;
   display: flex;
@@ -857,7 +858,7 @@
   width: auto;
 }
 
-.x36 .group-12633-g8bj1x {
+.x36 .container-btn-desplegar {
   background-color: transparent;
   height: 32.000057220458984px;
   margin-right: -5.741125744407327e-05px;
@@ -875,6 +876,7 @@
   position: absolute;
   top: 0px;
   width: 32px;
+  cursor: pointer;
 }
 
 .x36 .vector-1jMexg {
@@ -887,7 +889,7 @@
   width: 14px;
 }
 
-.x36 .frame-23574-LHhSj5 {
+.x36 .container-btn-numero-cuentas {
   align-items: center;
   background-color: var(--alabaster);
   border-radius: 8px;
@@ -921,7 +923,7 @@
   position: relative;
 }
 
-.x36 .frame-23722-AONk2w {
+.x36 .container-detalles-cuenta {
   align-items: center;
   background-color: transparent;
   display: flex;
@@ -967,7 +969,7 @@
   width: 246px;
 }
 
-.x36 .frame-23574-bu6BeU {
+.x36 .container-detalles-cuenta-tasa {
   align-items: flex-start;
   background-color: transparent;
   display: flex;
@@ -1003,7 +1005,7 @@
   width: auto;
 }
 
-.x36 .frame-23575-bu6BeU {
+.x36 .container-detalles-cuenta-saldo {
   align-items: flex-start;
   background-color: transparent;
   display: flex;
@@ -1039,7 +1041,7 @@
   width: 107px;
 }
 
-.x36 .frame-23576-bu6BeU {
+.x36 .container-detalles-cuenta-saldoDisponible {
   align-items: flex-start;
   background-color: transparent;
   display: flex;
@@ -1082,7 +1084,7 @@
   position: relative;
 }
 
-.x36 .frame-23721-AONk2w {
+.x36 .container-detalles-cuenta-numero {
   align-items: center;
   background-color: transparent;
   display: flex;
@@ -1093,7 +1095,7 @@
   position: relative;
 }
 
-.x36 .frame-23573-zSht8w {
+.x36 .numero-cuenta {
   align-items: flex-start;
   background-color: transparent;
   display: flex;
@@ -1128,20 +1130,6 @@
   width: 246px;
 }
 
-.x36 .frame-23574-zSht8w {
-  align-items: flex-start;
-  background-color: transparent;
-  display: flex;
-  flex-direction: column;
-  gap: 4px;
-  height: 96px;
-  justify-content: center;
-  padding-left: 10px;
-  padding-right: 10px;
-  position: relative;
-  width: 88px;
-}
-
 .x36 .tasa-UiA2xp {
   background-color: transparent;
   height: 23px;
@@ -1162,20 +1150,6 @@
   position: relative;
   text-align: left;
   width: auto;
-}
-
-.x36 .frame-23575-zSht8w {
-  align-items: flex-start;
-  background-color: transparent;
-  display: flex;
-  flex-direction: column;
-  gap: 4px;
-  height: 96px;
-  justify-content: center;
-  padding-left: 10px;
-  padding-right: 10px;
-  position: relative;
-  width: 172px;
 }
 
 .x36 .saldo-contable-xDaHN4 {
@@ -1200,19 +1174,6 @@
   width: 107px;
 }
 
-.x36 .frame-23576-zSht8w {
-  align-items: flex-start;
-  background-color: transparent;
-  display: flex;
-  flex-direction: column;
-  gap: 4px;
-  height: 96px;
-  justify-content: center;
-  min-width: 172px;
-  padding-left: 10px;
-  padding-right: 10px;
-  position: relative;
-}
 
 .x36 .saldo-disponible-AK8HKx {
   background-color: transparent;
@@ -1243,7 +1204,7 @@
   position: relative;
 }
 
-.x36 .frame-23578-hmGqUh {
+.x36 .container-btn-plazosFijos {
   align-items: flex-start;
   background-color: transparent;
   display: flex;
@@ -1345,7 +1306,7 @@
   width: 32.000057220458984px;
 }
 
-.x36 .ellipse-9-12LFzl {
+.x36 .desplagar-left {
   background-color: var(--green-vogue);
   border-radius: 16px;
   height: 32px;
@@ -1389,18 +1350,6 @@
   width: 15px;
 }
 
-.x36 .frame-23573-j8RhDm {
-  align-items: flex-start;
-  background-color: transparent;
-  display: flex;
-  flex-direction: column;
-  gap: 4px;
-  height: 96px;
-  justify-content: center;
-  padding-left: 10px;
-  position: relative;
-  width: 248px;
-}
 
 .x36 .nmero-de-cuenta-5ey4cz {
   background-color: transparent;
@@ -1422,20 +1371,6 @@
   position: relative;
   text-align: left;
   width: 246px;
-}
-
-.x36 .frame-23574-j8RhDm {
-  align-items: flex-start;
-  background-color: transparent;
-  display: flex;
-  flex-direction: column;
-  gap: 4px;
-  height: 96px;
-  justify-content: center;
-  padding-left: 10px;
-  padding-right: 10px;
-  position: relative;
-  width: 88px;
 }
 
 .x36 .tasa-IxZIDF {
@@ -1460,20 +1395,6 @@
   width: auto;
 }
 
-.x36 .frame-23575-j8RhDm {
-  align-items: flex-start;
-  background-color: transparent;
-  display: flex;
-  flex-direction: column;
-  gap: 4px;
-  height: 96px;
-  justify-content: center;
-  padding-left: 10px;
-  padding-right: 10px;
-  position: relative;
-  width: 172px;
-}
-
 .x36 .saldo-contable-iCHyVc {
   background-color: transparent;
   height: 23px;
@@ -1494,20 +1415,6 @@
   position: relative;
   text-align: left;
   width: 107px;
-}
-
-.x36 .frame-23576-j8RhDm {
-  align-items: flex-start;
-  background-color: transparent;
-  display: flex;
-  flex-direction: column;
-  gap: 4px;
-  height: 96px;
-  justify-content: center;
-  min-width: 172px;
-  padding-left: 10px;
-  padding-right: 10px;
-  position: relative;
 }
 
 .x36 .saldo-disponible-zc0OIj {
@@ -1539,7 +1446,7 @@
   position: relative;
 }
 
-.x36 .frame-23711-hmGqUh {
+.x36 .container-btn-CTS {
   align-items: flex-start;
   background-color: transparent;
   display: flex;
@@ -1616,18 +1523,6 @@
   width: 32.000057220458984px;
 }
 
-.x36 .ellipse-9-92meGx {
-  background-color: var(--green-vogue);
-  border-radius: 16px;
-  height: 32px;
-  left: 0px;
-  mix-blend-mode: normal;
-  position: absolute;
-  top: 0px;
-  transform: rotate(-360.00deg);
-  width: 32px;
-}
-
 .x36 .vector-92meGx {
   background-color: transparent;
   height: 14px;
@@ -1660,19 +1555,6 @@
   width: 15px;
 }
 
-.x36 .frame-23573-fD1UTZ {
-  align-items: flex-start;
-  background-color: transparent;
-  display: flex;
-  flex-direction: column;
-  gap: 4px;
-  height: 96px;
-  justify-content: center;
-  padding-left: 10px;
-  position: relative;
-  width: 248px;
-}
-
 .x36 .nmero-de-cuenta-5AoJI1 {
   background-color: transparent;
   height: 25px;
@@ -1693,20 +1575,6 @@
   position: relative;
   text-align: left;
   width: 246px;
-}
-
-.x36 .frame-23574-fD1UTZ {
-  align-items: flex-start;
-  background-color: transparent;
-  display: flex;
-  flex-direction: column;
-  gap: 4px;
-  height: 96px;
-  justify-content: center;
-  padding-left: 10px;
-  padding-right: 10px;
-  position: relative;
-  width: 88px;
 }
 
 .x36 .tasa-FGZYQd {
@@ -1731,20 +1599,6 @@
   width: auto;
 }
 
-.x36 .frame-23575-fD1UTZ {
-  align-items: flex-start;
-  background-color: transparent;
-  display: flex;
-  flex-direction: column;
-  gap: 4px;
-  height: 96px;
-  justify-content: center;
-  padding-left: 10px;
-  padding-right: 10px;
-  position: relative;
-  width: 172px;
-}
-
 .x36 .saldo-contable-SI7Okx {
   background-color: transparent;
   height: 23px;
@@ -1765,20 +1619,6 @@
   position: relative;
   text-align: left;
   width: 107px;
-}
-
-.x36 .frame-23576-fD1UTZ {
-  align-items: flex-start;
-  background-color: transparent;
-  display: flex;
-  flex-direction: column;
-  gap: 4px;
-  height: 96px;
-  justify-content: center;
-  min-width: 172px;
-  padding-left: 10px;
-  padding-right: 10px;
-  position: relative;
 }
 
 .x36 .saldo-disponible-EV17EE {
@@ -1810,7 +1650,7 @@
   position: relative;
 }
 
-.x36 .frame-23712-hmGqUh {
+.x36 .container-btn-credito {
   align-items: flex-start;
   background-color: transparent;
   display: flex;
@@ -1886,18 +1726,6 @@
   width: 32.000057220458984px;
 }
 
-.x36 .ellipse-9-iKMxxf {
-  background-color: var(--green-vogue);
-  border-radius: 16px;
-  height: 32px;
-  left: 0px;
-  mix-blend-mode: normal;
-  position: absolute;
-  top: 0px;
-  transform: rotate(-360.00deg);
-  width: 32px;
-}
-
 .x36 .vector-iKMxxf {
   background-color: transparent;
   height: 14px;
@@ -1930,19 +1758,6 @@
   width: 15px;
 }
 
-.x36 .frame-23573-NIeKJQ {
-  align-items: flex-start;
-  background-color: transparent;
-  display: flex;
-  flex-direction: column;
-  gap: 4px;
-  height: 96px;
-  justify-content: center;
-  padding-left: 10px;
-  position: relative;
-  width: 248px;
-}
-
 .x36 .nmero-de-cuenta-KXz7tv {
   background-color: transparent;
   height: 25px;
@@ -1963,20 +1778,6 @@
   position: relative;
   text-align: left;
   width: 246px;
-}
-
-.x36 .frame-23574-NIeKJQ {
-  align-items: flex-start;
-  background-color: transparent;
-  display: flex;
-  flex-direction: column;
-  gap: 4px;
-  height: 96px;
-  justify-content: center;
-  padding-left: 10px;
-  padding-right: 10px;
-  position: relative;
-  width: 88px;
 }
 
 .x36 .tasa-cnYl5B {
@@ -2001,20 +1802,6 @@
   width: auto;
 }
 
-.x36 .frame-23575-NIeKJQ {
-  align-items: flex-start;
-  background-color: transparent;
-  display: flex;
-  flex-direction: column;
-  gap: 4px;
-  height: 96px;
-  justify-content: center;
-  padding-left: 10px;
-  padding-right: 10px;
-  position: relative;
-  width: 172px;
-}
-
 .x36 .saldo-contable-PFCnMH {
   background-color: transparent;
   height: 23px;
@@ -2035,20 +1822,6 @@
   position: relative;
   text-align: left;
   width: 107px;
-}
-
-.x36 .frame-23576-NIeKJQ {
-  align-items: flex-start;
-  background-color: transparent;
-  display: flex;
-  flex-direction: column;
-  gap: 4px;
-  height: 96px;
-  justify-content: center;
-  min-width: 172px;
-  padding-left: 10px;
-  padding-right: 10px;
-  position: relative;
 }
 
 .x36 .saldo-disponible-n1YFkZ {

@@ -32,7 +32,7 @@
   top: 316px;
 }
 
-.x38 .frame-23518-nej5x6 {
+.x38 .container-misProductos {
   align-items: center;
   background-color: var(--athens-gray);
   border-radius: 0px 20px 0px 0px;
@@ -97,7 +97,7 @@
   width: auto;
 }
 
-.x38 .frame-23525-nej5x6 {
+.x38 .container-pagos {
   align-items: center;
   background-color: var(--athens-gray);
   display: flex;
@@ -112,7 +112,6 @@
 
 .x38 .frame-23511-ABqiwD {
   align-items: center;
-  background-color: var(--green-vogue);
   border-radius: 0px 20px 20px 0px;
   display: flex;
   flex-direction: column;
@@ -161,7 +160,7 @@
   width: auto;
 }
 
-.x38 .frame-23526-nej5x6 {
+.x38 .container-transferencia {
   align-items: center;
   background-color: var(--athens-gray);
   display: flex;
@@ -225,7 +224,7 @@
   width: auto;
 }
 
-.x38 .frame-23522-nej5x6 {
+.x38 .container-desembolso {
   align-items: center;
   background-color: var(--athens-gray);
   display: flex;
@@ -288,7 +287,7 @@
   width: auto;
 }
 
-.x38 .frame-23523-nej5x6 {
+.x38 .container-abrirDeposito {
   align-items: center;
   background-color: var(--athens-gray);
   display: flex;
@@ -351,7 +350,7 @@
   width: auto;
 }
 
-.x38 .frame-23527-nej5x6 {
+.x38 .container-configuracion {
   align-items: center;
   background-color: var(--athens-gray);
   border-radius: 0px 0px 20px 0px;
@@ -416,7 +415,7 @@
   width: auto;
 }
 
-.x38 .frame-23676-9AeCg5 {
+.x38 .container-logo-empresa {
   align-items: flex-end;
   background-color: transparent;
   display: flex;
@@ -477,7 +476,7 @@
   width: 28px;
 }
 
-.x38 .producto-0sdypG {
+.x38 .container-titulo-productos {
   align-items: flex-start;
   background-color: transparent;
   display: flex;
@@ -536,7 +535,7 @@
   position: relative;
 }
 
-.x38 .frame-23636-Bo96nV {
+.x38 .titulo-productos {
   align-items: center;
   background-color: transparent;
   display: flex;
@@ -563,13 +562,14 @@
 }
 
 .x38 .vector-72-zmFSjC {
-  background-color: transparent;
+  background-color: #DBDBDB;
   height: 1px;
   position: relative;
   width: 793px;
+ 
 }
 
-.x38 .frame-23538-9AeCg5 {
+.x38 .container-btn-volver {
   align-items: center;
   background-color: transparent;
   display: flex;
@@ -617,13 +617,8 @@
   width: auto;
 }
 
-.x38 .span0-CZPtpZ {
-}
 
-.x38 .span1-CZPtpZ {
-}
-
-.x38 .frame-23736-9AeCg5 {
+.x38 .container-abrir-nCuenta {
   align-items: flex-start;
   background-color: transparent;
   display: flex;
@@ -681,7 +676,7 @@
   width: auto;
 }
 
-.x38 .frame-23805-5uw83x {
+.x38 .container-seleccione-cuenta {
   align-items: center;
   background-color: transparent;
   display: flex;
@@ -710,7 +705,7 @@
   width: auto;
 }
 
-.x38 .frame-23575-5uw83x {
+.x38 .container-caja-digital {
   align-items: center;
   background-color: var(--alabaster);
   border-radius: 8px;
@@ -780,7 +775,7 @@
   width: auto;
 }
 
-.x38 .frame-23738-dQtHtD {
+.x38 .container-mensaje {
   align-items: flex-start;
   background-color: transparent;
   display: flex;
@@ -813,7 +808,7 @@
   position: relative;
 }
 
-.x38 .frame-23717-5uw83x {
+.x38 .container-ahorro-rentable {
   align-items: center;
   background-color: var(--alabaster);
   border-radius: 8px;
@@ -883,21 +878,6 @@
   width: auto;
 }
 
-.x38 .frame-23738-hl5YGS {
-  align-items: flex-start;
-  background-color: transparent;
-  display: flex;
-  gap: 10px;
-  justify-content: flex-start;
-  min-height: 56px;
-  min-width: 720px;
-  padding-bottom: 10px;
-  padding-left: 10px;
-  padding-right: 10px;
-  padding-top: 10px;
-  position: relative;
-}
-
 .x38 .es-una-cuenta-en-la-8pP4wR {
   background-color: transparent;
   height: 36px;
@@ -916,7 +896,7 @@
   position: relative;
 }
 
-.x38 .frame-23718-5uw83x {
+.x38 .container-cuenta-flexible {
   align-items: center;
   background-color: var(--alabaster);
   border-radius: 8px;
@@ -989,21 +969,6 @@
   position: relative;
   text-align: left;
   width: auto;
-}
-
-.x38 .frame-23738-X0b7bp {
-  align-items: flex-start;
-  background-color: transparent;
-  display: flex;
-  gap: 10px;
-  justify-content: flex-start;
-  min-height: 56px;
-  min-width: 720px;
-  padding-bottom: 10px;
-  padding-left: 10px;
-  padding-right: 10px;
-  padding-top: 10px;
-  position: relative;
 }
 
 .x38 .es-una-cuenta-en-la-tXyd65 {

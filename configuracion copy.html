@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet"
+        href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
+    <link rel="stylesheet"
+        href="https://fonts.sandbox.google.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
+    <link href='https://unpkg.com/boxicons@2.1.2/css/boxicons.min.css' rel='stylesheet'>
+    <link rel="stylesheet" href="css/configuracion.css">
+
+</head>
+
+<body>
+    <div class="grip-container-header">
+        <div class="imagenCaja">
+            <img src="imagenCaja_files/logo_caja.png" alt="">
+        </div>
+        <div class="salida">
+            <button>
+                <i class='bx bxs-exit' style='color:#35b1b9'></i>
+            </button>
+        </div>
+    </div>
+    <div class="grip-container-config">
+        <div class="menu" id="menu">
+            <ul>
+                <li class="btn-menu">
+                    <a href="">
+                        <img src="./imagenCaja_files/icons8-credit-card-64.png" alt="">
+                        <br>
+                        Mis productos
+                    </a>
+                </li>
+                <li class="btn-menu">
+                    <a href="">
+                        <img src="./imagenCaja_files/icons8-payment-64.png" alt="">
+                        <br>
+                        Pagos
+                    </a>
+                </li>
+                <li class="btn-menu">
+                    <a href="">
+                        <img src="./imagenCaja_files/icons8-transfer-64.png" alt="">
+                        <br>
+                        Transferencia
+                    </a>
+                </li>
+                <li class="btn-menu">
+                    <a href="">
+                        <img src="./imagenCaja_files/icons8-money-66.png" alt="" class="desembolso">
+                        <br>
+                        Desembolso de líneas
+                    </a>
+                </li>
+                <li class="btn-menu">
+                    <a href="">
+                        <img src="./imagenCaja_files/icons8-grow-64.png" alt="">
+                        <br>
+                        Abrir depósito a plazo fijo
+                    </a>
+                </li>
+                <li class="btn-menu active">
+                    <a href="">
+                        <img src="./imagenCaja_files/icons8-sync-settings-80.png" alt="">
+                        <br>
+                        Configuración
+                    </a>
+                </li>
+            </ul>
+        </div>
+        <div class="configuracion">
+            <div class="tituloConfig">
+                <h1>
+                    <img src="./imagenCaja_files/icons8-sync-settings-80.png" alt="">
+                    Configuración
+                </h1>
+                <hr class="linea">
+            </div>
+            <div class="tab-contenido">
+                <button class="tablink btn-1" onclick="openPage(event, 'limitemonto')" id="defaultOpen">
+                    Limite de Montos
+                </button>
+                <button class="tablink btn-2" onclick="openPage(event, 'prendeapaga')">
+                    Prende / Apaga Operaciones
+                </button>
+                <button class="tablink btn-3" onclick="openPage(event, 'actulizadatos')">
+                    Actualiza Datos
+                </button>
+                <button class="tablink btn-3" onclick="openPage(event, 'recargas')">
+                    Recargas
+                </button>
+                <div id="limitemonto" class="tabcontent">
+                    <h1>limite</h1>
+                    </div>
+                    <div id="prendeapaga" class="tabcontent">
+                        <h1>prende</h1>
+                      </div>
+                      <div id="actulizadatos" class="tabcontent">
+     <h1>Actualiza</h1>
+                      </div>
+                      <div id="recargas" class="tabcontent">
+                        <h1>recargas</h1>
+                        </div>
+                </div>
+       
+
+            </div>
+
+        </div>
+
+    </div>
+
+
+
+
+
+
+
+
+
+
+    <script src="https://code.jquery.com/jquery-3.6.0.slim.min.js"
+        integrity="sha256-u7e5khyithlIdTpu22PHhENmPcRdFiHRjhAuHcs05RI=" crossorigin="anonymous"></script>
+    <script src="js/configuracion.js"></script>
+</body>
+
+</html>
