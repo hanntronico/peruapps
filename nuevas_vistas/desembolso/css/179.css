@@ -1,0 +1,67 @@
+.container-boton-volver-2{
+    align-items: center;
+    background-color: transparent;
+    display: flex;
+    gap: 15px;
+    justify-content: flex-start;
+    left: 222px;
+    position: absolute;
+    top: 368px;
+    margin-bottom: 5%;
+}
+
+.x36 .container-mensaje-desembolso {
+    align-items: flex-start;
+    background-color: transparent;
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    justify-content: flex-start;
+    left: 225px;
+    position: absolute;
+    top: 468px;
+    width: 100%;
+  }
+
+  .container-input{
+    align-items: flex-start;
+    background-color: transparent;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    justify-content: flex-start;
+    min-height: 144px;
+    min-width: 677px;
+    padding-top: 8px;
+    position: relative;
+    margin-bottom: 4%;
+  }
+
+  .container-input input{
+    align-items: flex-start;
+    background-color: transparent;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    height: 88px;
+    justify-content: center;
+    overflow: hidden;
+    padding-bottom: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 10px;
+    position: relative;
+    width: 677px;
+    margin-top: 2%;
+  }
+
+  .periodo-pago {
+      display: flex;
+      justify-content: center;
+      width: 100%;
+  }
+
+  .container-logo{
+      margin-top: 20%;
+  }

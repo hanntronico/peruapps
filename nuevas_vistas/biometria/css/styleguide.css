@@ -210,6 +210,13 @@
   font-style: normal;
   font-weight: 700;
 }
+.ubuntu-bold-blue-zodiac-20px {
+  color: var(--blue-zodiac);
+  font-family: var(--font-family-ubuntu);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 700;
+}
 
 .opensans-regular-normal-abbey-20px {
   color: var(--abbey);

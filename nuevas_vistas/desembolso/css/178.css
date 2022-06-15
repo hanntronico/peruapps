@@ -1,0 +1,54 @@
+.x36 .container-mensaje-desembolso {
+    align-items: flex-start;
+    background-color: transparent;
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    justify-content: flex-start;
+    left: 225px;
+    position: absolute;
+    top: 368px;
+    width: 100%;
+  }
+
+  .grid-container{
+    display: grid;
+    grid-template-columns: auto auto;
+    gap: 10px;
+    padding: 20px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    border-radius: 12px;
+    width: 123%;
+    margin-top: 50px;
+  }
+
+  ul{
+    list-style: none;
+    line-height: 48px;
+    
+  }
+
+   .respuesta li{
+      text-align: right;
+  }
+  .respuesta{
+      margin-right: 38px;
+  }
+
+  .container-btn-siguente{
+      display: flex;
+      justify-content: center;
+      top:474px;
+      margin-top: 30%;
+      
+  }
+
+  .container-btn-siguente button{
+      background-color: #35B1B8;
+      border: none;
+      padding: 10px;
+      width: 326px;
+      height: 88px;
+      border-radius: 20px;
+
+  }
