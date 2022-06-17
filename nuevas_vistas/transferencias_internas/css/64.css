@@ -10,7 +10,6 @@
   width: 1080px;
 }
 
-
 .x64 .container-mensaje-transferenciaI {
   align-items: flex-start;
   background-color: transparent;
@@ -26,7 +25,7 @@
 .x64 .puedes-agregar-una-o-eoQh1L {
   background-color: transparent;
   height: 56px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: normal;
   mix-blend-mode: normal;
   position: relative;
@@ -60,6 +59,7 @@
   height: 136px;
   position: relative;
   width: 385px;
+  margin-right: 23px;
 }
 
 .x64 .frame-23531-NzPfpy {
@@ -123,7 +123,7 @@
 
 .x64 .cable-internet-I992TA {
   background-color: transparent;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: normal;
   mix-blend-mode: normal;
   position: relative;
@@ -216,7 +216,7 @@
 
 .x64 .cable-internet-qw9NXE {
   background-color: transparent;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: normal;
   mix-blend-mode: normal;
   position: relative;
@@ -239,4 +239,17 @@
   position: absolute;
   top: 40px;
   width: 56px;
+}
+iframe {
+  height: auto;
+  width: 100%;
+}
+
+.steper {
+  display: none;
+}
+
+#btn-transferencia-propia {
+  border: none;
+  background: none;
 }
