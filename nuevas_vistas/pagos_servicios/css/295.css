@@ -78,7 +78,7 @@
 .x295 .mis-productos-l4ZXJO {
   background-color: transparent;
   height: 22px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 22px;
   mix-blend-mode: normal;
   position: relative;
@@ -142,7 +142,7 @@
 .x295 .pagos-AXQRth {
   background-color: transparent;
   height: 22px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 22px;
   mix-blend-mode: normal;
   position: relative;
@@ -206,7 +206,7 @@
 .x295 .transferencia-lmledF {
   background-color: transparent;
   height: 22px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 22px;
   mix-blend-mode: normal;
   position: relative;
@@ -270,7 +270,7 @@
 .x295 .desembolso-de-lneas-btnUjD {
   background-color: transparent;
   height: 44px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 22px;
   mix-blend-mode: normal;
   position: relative;
@@ -333,7 +333,7 @@
 .x295 .abrir-depsito-a-plazo-fijo-t35zGK {
   background-color: transparent;
   height: 44px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 22px;
   mix-blend-mode: normal;
   position: relative;
@@ -397,7 +397,7 @@
 .x295 .configuracin-o5eFIf {
   background-color: transparent;
   height: 22px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 22px;
   mix-blend-mode: normal;
   position: relative;
@@ -470,7 +470,7 @@
 .x295 .pagos-eNVJ7Y {
   background-color: transparent;
   height: 45px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 45px;
   mix-blend-mode: normal;
   position: relative;
@@ -590,7 +590,7 @@
 .x295 .servicios-DP97tW {
   background-color: transparent;
   height: 27px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 27px;
   mix-blend-mode: normal;
   position: relative;
@@ -617,7 +617,7 @@
 .x295 .instituciones-oC0NKt {
   background-color: transparent;
   height: 27px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 27px;
   mix-blend-mode: normal;
   position: relative;
@@ -645,7 +645,7 @@
 .x295 .de-crditos-xgYaWs {
   background-color: transparent;
   height: 27px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 27px;
   mix-blend-mode: normal;
   position: relative;
@@ -673,7 +673,7 @@
 .x295 .recargas-Soe87i {
   background-color: transparent;
   height: 27px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 27px;
   mix-blend-mode: normal;
   position: relative;
@@ -723,7 +723,7 @@
 
 .x295 .volver-blNUGX {
   background-color: transparent;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: normal;
   mix-blend-mode: normal;
   position: relative;
@@ -774,7 +774,7 @@
 .x295 .agua-SioxTB {
   background-color: transparent;
   height: 38px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 38px;
   mix-blend-mode: normal;
   position: relative;
@@ -799,7 +799,7 @@
   mix-blend-mode: normal;
   position: absolute;
   top: 0px;
-  transform: rotate(-360.00deg);
+  transform: rotate(-360deg);
   width: 48px;
 }
 
@@ -809,7 +809,7 @@
   left: 17px;
   position: absolute;
   top: 13px;
-  transform: rotate(-180.00deg);
+  transform: rotate(-180deg);
   width: 13px;
 }
 
@@ -820,7 +820,7 @@
   gap: 10px;
   height: 48px;
   justify-content: flex-start;
-  margin-right: -1.52587890625e-05px;
+  margin-right: -1.52587890625e-5px;
   min-width: 235px;
   padding-bottom: 10px;
   padding-left: 10px;
@@ -832,7 +832,7 @@
 .x295 .sedapar-sa-tumnMJ {
   background-color: transparent;
   height: 38px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 38px;
   mix-blend-mode: normal;
   position: relative;
@@ -889,7 +889,7 @@
 .x295 .texto-sRmR5w {
   background-color: transparent;
   height: 38px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 38px;
   mix-blend-mode: normal;
   position: relative;
@@ -918,10 +918,8 @@
   outline: none;
 }
 select {
-appearance: none;
+  appearance: none;
 }
-
-
 
 .x295 .container-icono-select {
   align-items: center;
@@ -933,8 +931,6 @@ appearance: none;
   min-height: 20px;
   position: relative;
 }
-
-
 
 .x295 .icono-select {
   background-color: transparent;
@@ -980,7 +976,7 @@ appearance: none;
   background-color: transparent;
   flex: 1;
   height: 20px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 20px;
   mix-blend-mode: normal;
   position: relative;
@@ -1028,7 +1024,7 @@ appearance: none;
 .x295 .texto-NZHZpS {
   background-color: transparent;
   height: 38px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 38px;
   mix-blend-mode: normal;
   position: relative;
@@ -1054,7 +1050,6 @@ appearance: none;
   position: relative;
   width: 677px;
 }
-
 
 .x295 .container-botones-step {
   align-items: center;
@@ -1088,7 +1083,7 @@ appearance: none;
 .x295 .actualizar-Cle4mj {
   background-color: transparent;
   height: 34px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 33.2px;
   mix-blend-mode: normal;
   position: relative;
@@ -1119,7 +1114,7 @@ appearance: none;
 .x295 .actualizar-iiJ3Z4 {
   background-color: transparent;
   height: 34px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 33.2px;
   mix-blend-mode: normal;
   position: relative;
@@ -1127,7 +1122,6 @@ appearance: none;
   white-space: nowrap;
   width: auto;
 }
-
 
 #svg_form_time {
   height: 20px;
@@ -1155,4 +1149,1484 @@ appearance: none;
   box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.3);
   border-radius: 9px;
   transition: transform 0.2s ease-in-out;
+}
+
+/* screen - 134 */
+
+.x134 {
+  background-color: var(--white);
+  height: 1920px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1080px;
+}
+
+.x134 .container-info-factura {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  justify-content: flex-start;
+  min-height: 464px;
+  position: relative;
+  width: 678px;
+}
+
+.x134 .group-12754-hFHEpv {
+  background-color: #f9f9fb;
+  height: 464px;
+  position: relative;
+  width: 678px;
+}
+
+.x134 .frame-23629-wqytf5 {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  justify-content: space-between;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 678px;
+}
+
+.x134 .frame-23623-DvEFvT {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  justify-content: flex-start;
+  min-height: 464px;
+  padding-right: 10px;
+  padding-top: 10px;
+  position: relative;
+  width: 253px;
+}
+
+.x134 .container-fecha {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  justify-content: flex-start;
+  min-height: 51px;
+  position: relative;
+  width: 245px;
+}
+
+.x134 .fecha-enOL8u {
+  background-color: transparent;
+  letter-spacing: 0px;
+  line-height: normal;
+  margin-top: -1px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: auto;
+}
+
+.x134 .cuenta-de-ahorros-enOL8u {
+  background-color: transparent;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: auto;
+}
+
+.x134 .container-titular {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  justify-content: flex-start;
+  min-height: 51px;
+  position: relative;
+  width: 245px;
+}
+
+.x134 .hora-x1onYl {
+  background-color: transparent;
+  letter-spacing: 0px;
+  line-height: normal;
+  margin-top: -1px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: auto;
+}
+
+.x134 .x1300-x1onYl {
+  background-color: transparent;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: auto;
+}
+
+.x134 .container-numeroContacto {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  justify-content: flex-start;
+  min-height: 51px;
+  position: relative;
+  width: 245px;
+}
+
+.x134 .n-de-contrato-p1rx5P {
+  background-color: transparent;
+  letter-spacing: 0px;
+  line-height: normal;
+  margin-top: -1px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: auto;
+}
+
+.x134 .x1300-p1rx5P {
+  background-color: transparent;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: auto;
+}
+
+.x134 .container-tipoMoneda {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  justify-content: flex-start;
+  min-height: 51px;
+  position: relative;
+  width: 245px;
+}
+
+.x134 .cuenta-de-origen-jAfbLu {
+  background-color: transparent;
+  letter-spacing: 0px;
+  line-height: normal;
+  margin-top: -1px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: auto;
+}
+
+.x134 .x1234-0987-6543-0987-jAfbLu {
+  background-color: transparent;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: auto;
+}
+
+.x134 .container-entidad {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  justify-content: flex-start;
+  min-height: 51px;
+  position: relative;
+  width: 245px;
+}
+
+.x134 .entidad-8myHzS {
+  background-color: transparent;
+  letter-spacing: 0px;
+  line-height: normal;
+  margin-top: -1px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: auto;
+}
+
+.x134 .sedapal-8myHzS {
+  background-color: transparent;
+  height: 23px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 212px;
+}
+
+.x134 .container-entidad {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  justify-content: flex-start;
+  min-height: 49px;
+  position: relative;
+  width: 245px;
+}
+
+.x134 .n-de-operacin-VzFHnW {
+  background-color: transparent;
+  letter-spacing: 0px;
+  line-height: normal;
+  margin-top: -1px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: auto;
+}
+
+.x134 .x12345678-VzFHnW {
+  background-color: transparent;
+  height: 21px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 216px;
+}
+
+.x134 .container-monto-factura {
+  align-items: center;
+  background-color: var(--alabaster);
+  border-radius: 22px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  height: 464px;
+  justify-content: center;
+  mix-blend-mode: multiply;
+  position: relative;
+  width: 409px;
+}
+
+.x134 .frame-23637-53t9Ci {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  height: 196px;
+  justify-content: flex-start;
+  min-width: 247px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  position: relative;
+}
+
+.x134 .container-monto {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  justify-content: flex-start;
+  min-height: 104px;
+  min-width: 183px;
+  position: relative;
+}
+
+.x134 .frame-23625-6zttzn {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  gap: 10px;
+  justify-content: flex-start;
+  min-height: 38px;
+  min-width: 96px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  position: relative;
+}
+
+.x134 .monto-81gaPM {
+  background-color: transparent;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: auto;
+}
+
+.x134 .frame-23626-6zttzn {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  gap: 10px;
+  justify-content: flex-start;
+  min-height: 66px;
+  min-width: 183px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  position: relative;
+}
+
+.x134 .s10000-uuXRxZ {
+  background-color: transparent;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: auto;
+}
+
+.x134 .container-comision-montoT {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  justify-content: flex-start;
+  min-height: 56px;
+  min-width: 227px;
+  position: relative;
+}
+
+.x134 .container-comision {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  gap: 18px;
+  justify-content: flex-start;
+  min-height: 23px;
+  position: relative;
+  width: 206px;
+}
+
+.x134 .comisin-0wcrRh {
+  background-color: transparent;
+  flex: 1;
+  height: 23px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 130px;
+}
+
+.x134 .s500-0wcrRh {
+  background-color: transparent;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: auto;
+}
+
+.x134 .container-montoT {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  gap: 18px;
+  justify-content: flex-start;
+  min-height: 23px;
+  min-width: 227px;
+  position: relative;
+}
+
+.x134 .monto-total-ZCKE5I {
+  background-color: transparent;
+  height: 23px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 129px;
+}
+
+.x134 .s10000-ZCKE5I {
+  background-color: transparent;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: auto;
+}
+
+.x134 .container-select-nCuenta {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  justify-content: flex-start;
+  min-height: 144px;
+  min-width: 677px;
+  padding-top: 8px;
+  position: relative;
+}
+
+.x134 .container-select-label {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 10px;
+  height: 40px;
+  justify-content: flex-start;
+  min-width: 322px;
+  padding-bottom: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  position: relative;
+  margin-top: 6%;
+}
+
+.x134 .selecciona-cuenta-de-origen {
+  background-color: transparent;
+  height: 38px;
+  letter-spacing: 0px;
+  line-height: 38px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+/* screen - 298 */
+
+.x298 {
+  background-color: var(--white);
+  height: 1920px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1080px;
+}
+
+.x298 .container-detalles-pago {
+  background-color: transparent;
+  height: 385px;
+  position: relative;
+  width: 678px;
+}
+
+.x298 .container-detalles-pago-2 {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  justify-content: flex-start;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 678px;
+}
+
+.x298 .group-12754-MBo3Y9 {
+  background-color: transparent;
+  height: 385px;
+  position: relative;
+  width: 678px;
+}
+
+.x298 .detalles-pago {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  justify-content: flex-start;
+  left: 0px;
+  padding-right: 10px;
+  padding-top: 10px;
+  position: absolute;
+  top: 0px;
+  width: 266px;
+}
+
+.x298 .container-fecha-pago {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  justify-content: flex-start;
+  min-height: 51px;
+  position: relative;
+  width: 245px;
+}
+
+.x298 .fecha-uxdxKL {
+  background-color: transparent;
+  letter-spacing: 0px;
+  line-height: normal;
+  margin-top: -1px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: auto;
+}
+
+.x298 .cuenta-de-ahorros-uxdxKL {
+  background-color: transparent;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: auto;
+}
+
+.x298 .container-titular-pago {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  justify-content: flex-start;
+  min-height: 51px;
+  position: relative;
+  width: 245px;
+}
+
+.x298 .titular-de-servicio-0j1s0W {
+  background-color: transparent;
+  letter-spacing: 0px;
+  line-height: normal;
+  margin-top: -1px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: auto;
+}
+
+.x298 .pamela-salas-0j1s0W {
+  background-color: transparent;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: auto;
+}
+
+.x298 .container-tipoMoneda-pago {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  justify-content: flex-start;
+  min-height: 51px;
+  position: relative;
+  width: 245px;
+}
+
+.x298 .tipo-de-moneda-1jo4I9 {
+  background-color: transparent;
+  letter-spacing: 0px;
+  line-height: normal;
+  margin-top: -1px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: auto;
+}
+
+.x298 .x1234-0987-6543-0987-1jo4I9 {
+  background-color: transparent;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: auto;
+}
+
+.x298 .container-entidad-pago {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  justify-content: flex-start;
+  min-height: 51px;
+  position: relative;
+  width: 245px;
+}
+
+.x298 .entidad-iNx1d1 {
+  background-color: transparent;
+  letter-spacing: 0px;
+  line-height: normal;
+  margin-top: -1px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: auto;
+}
+
+.x298 .sedapal-iNx1d1 {
+  background-color: transparent;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: auto;
+}
+
+.x298 .container-cuentaOrigen-pago {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  justify-content: flex-start;
+  min-height: 51px;
+  position: relative;
+  width: 245px;
+}
+
+.x298 .cuenta-de-origen-HA12T6 {
+  background-color: transparent;
+  letter-spacing: 0px;
+  line-height: normal;
+  margin-top: -1px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: auto;
+}
+
+.x298 .numero-cuentaOrigen {
+  background-color: transparent;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: auto;
+}
+
+.x298 .container-monto-pago {
+  align-items: center;
+  background-color: #f3f3f7;
+  border-radius: 22px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  height: 385px;
+  justify-content: center;
+  left: 266px;
+  mix-blend-mode: multiply;
+  position: absolute;
+  top: 0px;
+  width: 412px;
+}
+
+.x298 .container-monto-pago-2 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  justify-content: flex-start;
+  min-height: 196px;
+  min-width: 246px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  position: relative;
+}
+
+.x298 .monto-pago {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  justify-content: flex-start;
+  min-height: 104px;
+  min-width: 183px;
+  position: relative;
+}
+
+.x298 .frame-23625-h5b5ZY {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  gap: 10px;
+  justify-content: flex-start;
+  min-height: 38px;
+  min-width: 96px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  position: relative;
+}
+
+.x298 .monto-qWSxXQ {
+  background-color: transparent;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: auto;
+}
+
+.x298 .frame-23626-h5b5ZY {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  gap: 10px;
+  justify-content: flex-start;
+  min-height: 66px;
+  min-width: 183px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  position: relative;
+}
+
+.x298 .s10000-FwJBeA {
+  background-color: transparent;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: auto;
+}
+
+.x298 .comision-pago {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  justify-content: flex-start;
+  min-height: 56px;
+  min-width: 226px;
+  position: relative;
+}
+
+.x298 .frame-106-PZAEDW {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  gap: 18px;
+  justify-content: flex-start;
+  min-height: 23px;
+  position: relative;
+  width: 206px;
+}
+
+.x298 .comisin-0v6ZPF {
+  background-color: transparent;
+  flex: 1;
+  height: 23px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 130px;
+}
+
+.x298 .s500-0v6ZPF {
+  background-color: transparent;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: auto;
+}
+
+.x298 .montoT-pago {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  gap: 18px;
+  justify-content: flex-start;
+  min-height: 23px;
+  min-width: 226px;
+  position: relative;
+}
+
+.x298 .monto-total-d5ywbl {
+  background-color: transparent;
+  height: 23px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 128px;
+}
+
+.x298 .s10000-d5ywbl {
+  background-color: transparent;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: auto;
+}
+
+.x298 .container-inputClave {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  justify-content: flex-start;
+  min-height: 208px;
+  min-width: 677px;
+  position: relative;
+}
+
+.x298 .frame-23553-default-XFsxcI {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  justify-content: flex-start;
+  min-height: 144px;
+  min-width: 677px;
+  padding-top: 8px;
+  position: relative;
+  margin-top: 6%;
+}
+
+.x298 .container-labelClave {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 10px;
+  height: 40px;
+  justify-content: flex-start;
+  min-width: 72px;
+  padding-bottom: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  position: relative;
+}
+
+.x298 .texto-y7xm1V {
+  background-color: transparent;
+  height: 38px;
+  letter-spacing: 0px;
+  line-height: 38px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.x298 .input-clave {
+  align-items: flex-start;
+  background-color: transparent;
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  height: 88px;
+  justify-content: center;
+  overflow: hidden;
+  padding-bottom: 10px;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 10px;
+  position: relative;
+  width: 677px;
+}
+
+.x298 .escribir-texto-imput-0Xfi8z {
+  background-color: transparent;
+  height: 20px;
+  letter-spacing: 0px;
+  line-height: 20px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  white-space: nowrap;
+  width: auto;
+}
+
+.x298 .container-mensaje-clave {
+  background-color: transparent;
+  height: 40px;
+  position: relative;
+  width: 402.88092041015625px;
+}
+
+.x298 .frame-23628-JCnR0n {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 10px;
+  height: 40px;
+  justify-content: flex-start;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 403px;
+}
+
+.x298 .img-check {
+  background-color: transparent;
+  height: 29.578125px;
+  margin-left: -1.559535026550293px;
+  position: relative;
+  width: 29.880859375px;
+}
+
+.x298 .clave-capturada-correctamente-OD3Bux {
+  -webkit-text-stroke: 1px var(--limeade-2);
+  background-color: transparent;
+  height: 33px;
+  letter-spacing: 0px;
+  line-height: normal;
+  margin-right: -7.62939453125e-6px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: auto;
+}
+
+/* screen - 299 */
+
+.x299 {
+  background-color: var(--white);
+  height: 1920px;
+  mix-blend-mode: normal;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1080px;
+}
+
+.x299 .container-operacionRealizada {
+  background-color: transparent;
+  height: 616px;
+  position: relative;
+  width: 678px;
+}
+
+.x299 .container-operacionRealizada-2 {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  justify-content: flex-start;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 678px;
+}
+
+.x299 .operacionRealizada-2 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  gap: 0px;
+  height: 64px;
+  justify-content: flex-start;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  position: relative;
+  width: 677px;
+}
+
+.x299 .icono-operacionRealizada {
+  background-color: transparent;
+  height: 29.578125px;
+  margin-left: -1.059535026550293px;
+  position: relative;
+  width: 29.880859375px;
+}
+
+.x299 .mensaje-operacionRealizada {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  gap: 10px;
+  justify-content: flex-start;
+  margin-right: -27.880929946899414px;
+  min-height: 48px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-top: 10px;
+  position: relative;
+  width: 677px;
+}
+
+.x299 .operacin-realizada-exitosamente-BqHKxZ {
+  -webkit-text-stroke: 1px var(--pelorous);
+  background-color: transparent;
+  height: 28px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 592px;
+}
+
+.x299 .info-operacionRealizada {
+  background-color: transparent;
+  height: 544px;
+  position: relative;
+  width: 678px;
+}
+
+.x299 .frame-23623-vnBjee {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  justify-content: flex-start;
+  left: 0px;
+  padding-right: 10px;
+  padding-top: 10px;
+  position: absolute;
+  top: 0px;
+  width: 277px;
+}
+
+.x299 .facha-operacionRealizada {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  justify-content: flex-start;
+  min-height: 51px;
+  position: relative;
+  width: 245px;
+}
+
+.x299 .fecha-7SN2ux {
+  background-color: transparent;
+  letter-spacing: 0px;
+  line-height: normal;
+  margin-top: -1px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: auto;
+}
+
+.x299 .cuenta-de-ahorros-7SN2ux {
+  background-color: transparent;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: auto;
+}
+
+.x299 .hora-operacionRealizada {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  justify-content: flex-start;
+  min-height: 51px;
+  position: relative;
+  width: 245px;
+}
+
+.x299 .hora-7L2qeW {
+  background-color: transparent;
+  letter-spacing: 0px;
+  line-height: normal;
+  margin-top: -1px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: auto;
+}
+
+.x299 .x1300-7L2qeW {
+  background-color: transparent;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: auto;
+}
+
+.x299 .cuentaOrigen-operacionRealizada {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  justify-content: flex-start;
+  min-height: 51px;
+  position: relative;
+  width: 245px;
+}
+
+.x299 .cuenta-de-origen-hsswfM {
+  background-color: transparent;
+  letter-spacing: 0px;
+  line-height: normal;
+  margin-top: -1px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: auto;
+}
+
+.x299 .x1234-0987-6543-0987-hsswfM {
+  background-color: transparent;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: auto;
+}
+
+.x299 .titular-operacionRealizada {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  justify-content: flex-start;
+  min-height: 51px;
+  position: relative;
+  width: 245px;
+}
+
+.x299 .titular-de-servicio-UDxdGU {
+  background-color: transparent;
+  letter-spacing: 0px;
+  line-height: normal;
+  margin-top: -1px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: auto;
+}
+
+.x299 .pamela-salas-UDxdGU {
+  background-color: transparent;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: auto;
+}
+
+.x299 .tipoM-operacionRealizada {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  justify-content: flex-start;
+  min-height: 51px;
+  position: relative;
+  width: 245px;
+}
+
+.x299 .tipo-de-moneda-T8xtds {
+  background-color: transparent;
+  letter-spacing: 0px;
+  line-height: normal;
+  margin-top: -1px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: auto;
+}
+
+.x299 .soles-T8xtds {
+  background-color: transparent;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: auto;
+}
+
+.x299 .entidad-operacionRealizada {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  justify-content: flex-start;
+  min-height: 51px;
+  position: relative;
+  width: 245px;
+}
+
+.x299 .entidad-IbxYxy {
+  background-color: transparent;
+  letter-spacing: 0px;
+  line-height: normal;
+  margin-top: -1px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: auto;
+}
+
+.x299 .sedapal-IbxYxy {
+  background-color: transparent;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: auto;
+}
+
+.x299 .descripcion-operacionRealizada {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  justify-content: flex-start;
+  min-height: 48px;
+  position: relative;
+  width: 245px;
+}
+
+.x299 .descripcin-de-la-deuda-oSis3Z {
+  background-color: transparent;
+  letter-spacing: 0px;
+  line-height: normal;
+  margin-top: -1px;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: auto;
+}
+
+.x299 .sedapal-sa-oSis3Z {
+  background-color: transparent;
+  height: 20px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 106px;
+}
+
+.x299 .monto-operacionRealizada {
+  align-items: center;
+  background-color: #f3f3f7;
+  border-radius: 22px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  height: 544px;
+  justify-content: center;
+  left: 266px;
+  mix-blend-mode: multiply;
+  position: absolute;
+  top: 0px;
+  width: 412px;
+}
+
+.x299 .monto-operacionRealizada-2 {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  justify-content: flex-start;
+  min-height: 196px;
+  min-width: 246px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  position: relative;
+}
+
+.x299 .frame-23638-UeNoJR {
+  align-items: center;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  justify-content: flex-start;
+  min-height: 104px;
+  min-width: 183px;
+  position: relative;
+}
+
+.x299 .frame-23625-fZVo5E {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  gap: 10px;
+  justify-content: flex-start;
+  min-height: 38px;
+  min-width: 96px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  position: relative;
+}
+
+.x299 .monto-cee6ES {
+  background-color: transparent;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: auto;
+}
+
+.x299 .frame-23626-fZVo5E {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  gap: 10px;
+  justify-content: flex-start;
+  min-height: 66px;
+  min-width: 183px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+  position: relative;
+}
+
+.x299 .s10000-b6qnCO {
+  background-color: transparent;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: auto;
+}
+
+.x299 .comision-operacionRealizada {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  justify-content: flex-start;
+  min-height: 56px;
+  min-width: 226px;
+  position: relative;
+}
+
+.x299 .comision-info {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  gap: 18px;
+  justify-content: flex-start;
+  min-height: 23px;
+  position: relative;
+  width: 206px;
+}
+
+.x299 .comisin-mv5ysg {
+  background-color: transparent;
+  flex: 1;
+  height: 23px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 130px;
+}
+
+.x299 .s500-mv5ysg {
+  background-color: transparent;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: auto;
+}
+
+.x299 .montoT-operacionRealizada {
+  align-items: flex-start;
+  background-color: transparent;
+  display: flex;
+  gap: 18px;
+  justify-content: flex-start;
+  min-height: 23px;
+  min-width: 226px;
+  position: relative;
+}
+
+.x299 .monto-xpytmi {
+  background-color: transparent;
+  height: 23px;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: 128px;
+}
+
+.x299 .s10000-xpytmi {
+  background-color: transparent;
+  letter-spacing: 0px;
+  line-height: normal;
+  mix-blend-mode: normal;
+  position: relative;
+  text-align: left;
+  width: auto;
 }
