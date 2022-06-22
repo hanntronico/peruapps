@@ -88,7 +88,7 @@
 .x285 .mis-productos-s5uUHL {
   background-color: transparent;
   height: 22px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 22px;
   mix-blend-mode: normal;
   position: relative;
@@ -152,7 +152,7 @@
 .x285 .pagos-xxMvKx {
   background-color: transparent;
   height: 22px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 22px;
   mix-blend-mode: normal;
   position: relative;
@@ -216,7 +216,7 @@
 .x285 .transferencia-cC3vOV {
   background-color: transparent;
   height: 22px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 22px;
   mix-blend-mode: normal;
   position: relative;
@@ -280,7 +280,7 @@
 .x285 .desembolso-de-lneas-h9KKS6 {
   background-color: transparent;
   height: 44px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 22px;
   mix-blend-mode: normal;
   position: relative;
@@ -343,7 +343,7 @@
 .x285 .abrir-depsito-a-plazo-fijo-OwJ2SN {
   background-color: transparent;
   height: 44px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 22px;
   mix-blend-mode: normal;
   position: relative;
@@ -407,7 +407,7 @@
 .x285 .configuracin-f21Y5S {
   background-color: transparent;
   height: 22px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 22px;
   mix-blend-mode: normal;
   position: relative;
@@ -475,7 +475,7 @@
 .x285 .depsito-a-plazo-fijo-uDicnq {
   background-color: transparent;
   height: 45px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 45px;
   mix-blend-mode: normal;
   position: relative;
@@ -560,11 +560,10 @@
   gap: 48px;
   justify-content: flex-start;
   left: 225px;
-  position: absolute;
   top: 464px;
 }
 
-.x285 .group-12636-default-Gxdf0X {
+/* .x285 .group-12636-default-Gxdf0X {
   background-color: transparent;
   height: 48px;
   position: relative;
@@ -605,7 +604,7 @@
   position: absolute;
   top: -0px;
   width: 48px;
-}
+} */
 
 .x285 .frame-23734-Gxdf0X {
   align-items: center;
@@ -624,7 +623,7 @@
   width: 793px;
 }
 
-.x285 .frame-23760-7tq8FZ {
+/* .x285 .frame-23760-7tq8FZ {
   align-items: center;
   background-color: transparent;
   display: flex;
@@ -638,9 +637,9 @@
   padding-top: 10px;
   position: relative;
   width: 793px;
-}
+} */
 
-.x285 .frame-23586-xboLl0 {
+/* .x285 .frame-23586-xboLl0 {
   align-items: flex-start;
   background-color: transparent;
   display: flex;
@@ -667,7 +666,7 @@
   background-color: transparent;
   flex: 1;
   height: 38px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 38px;
   mix-blend-mode: normal;
   position: relative;
@@ -683,7 +682,7 @@
   mix-blend-mode: normal;
   position: relative;
   width: 25.23095703125px;
-}
+} */
 
 .x285 .frame-23729-7tq8FZ {
   align-items: flex-start;
@@ -697,6 +696,7 @@
   padding-left: 10px;
   padding-right: 10px;
   position: relative;
+  margin-top: -101px;
 }
 
 .x285 .frame-23733-qUHnNE {
@@ -732,7 +732,7 @@
   font-style: normal;
   font-weight: 400;
   height: 33px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: normal;
   mix-blend-mode: normal;
   position: relative;
@@ -771,8 +771,8 @@
 .x285 .soles-aEnH4L {
   background-color: transparent;
   height: 34px;
-  left: 0px;
-  letter-spacing: 0.00px;
+  left: 50px;
+  letter-spacing: 0px;
   line-height: 38px;
   mix-blend-mode: normal;
   position: absolute;
@@ -780,13 +780,15 @@
   top: 14px;
   white-space: nowrap;
   width: 163px;
+  border: none;
+  cursor: pointer;
 }
 
 .x285 .dlares-aEnH4L {
   background-color: transparent;
   height: 21px;
-  left: 163px;
-  letter-spacing: 0.00px;
+  left: 192px;
+  letter-spacing: 0px;
   line-height: 30px;
   mix-blend-mode: normal;
   position: absolute;
@@ -794,6 +796,8 @@
   top: 20px;
   white-space: nowrap;
   width: 163px;
+  border: none;
+  cursor: pointer;
 }
 
 .x285 .frame-23553-default-qUHnNE {
@@ -826,7 +830,7 @@
 .x285 .texto-hnjzzM {
   background-color: transparent;
   height: 38px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 38px;
   mix-blend-mode: normal;
   position: relative;
@@ -856,7 +860,7 @@
 .x285 .escribir-texto-imput-u2fMnq {
   background-color: transparent;
   height: 20px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 20px;
   mix-blend-mode: normal;
   position: relative;
@@ -865,7 +869,7 @@
   width: auto;
 }
 
-.x285 .frame-23732-qUHnNE {
+.x285 .container-monto-minimo-depositar {
   align-items: flex-start;
   background-color: transparent;
   display: flex;
@@ -881,7 +885,7 @@
 .x285 .el-monto-mnimo-a-depositar-es-s200000-u1AiUv {
   background-color: transparent;
   height: 38px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 38px;
   mix-blend-mode: normal;
   position: relative;
@@ -890,10 +894,11 @@
   width: 677px;
 }
 
-.x285 .frame-23537-default-7tq8FZ {
+.x285 .container-btn-realizar-simulacion {
   align-items: center;
   background-color: var(--pelorous);
   border-radius: 20px;
+  border: none;
   display: flex;
   gap: 0px;
   height: 88px;
@@ -905,12 +910,13 @@
   padding-top: 10px;
   position: relative;
   width: 326px;
+  cursor: pointer;
 }
 
 .x285 .actualizar-OesQ3u {
   background-color: transparent;
   height: 34px;
-  letter-spacing: 0.00px;
+  letter-spacing: 0px;
   line-height: 33.2px;
   mix-blend-mode: normal;
   position: relative;
