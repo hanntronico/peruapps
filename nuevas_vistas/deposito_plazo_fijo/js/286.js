@@ -130,3 +130,41 @@ $("#svg_form_time circle:nth-of-type(n + " + circle_child + ")").css(
   "fill",
   base_color
 );
+
+//modal
+var modal = document.getElementById("myModal");
+var modalProblemas = document.getElementById("myModal-problemas-conexion");
+
+var btn = document.getElementById("myBtn");
+var btnProblemas = document.getElementById("btnModal");
+
+var span = document.getElementsByClassName("close")[0];
+var btnCancelar = document.getElementsByClassName("closeModal")[0];
+
+btn.onclick = function () {
+  modal.style.display = "block";
+};
+
+btnProblemas.onclick = function () {
+  modalProblemas.style.display = "block";
+};
+
+span.onclick = function () {
+  modal.style.display = "none";
+};
+
+btnCancelar.onclick = function () {
+  modalProblemas.style.display = "none";
+};
+
+window.onclick = function (event) {
+  if (event.target == modal) {
+    modal.style.display = "none";
+  }
+};
+
+window.onclick = function (event) {
+  if (event.target == modalProblemas) {
+    modalProblemas.style.display = "none";
+  }
+};
