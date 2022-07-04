@@ -1,4 +1,4 @@
-:root {
+:root { 
   --abbey: #4d4d4d;
   --alabaster: #f9f9fb;
   --alabaster-2: #f9f9fa;
@@ -19,7 +19,7 @@
   --tradewind: #67b6b7;
   --white: #ffffff;
   --white-2: #ffffff80;
-
+ 
   --font-size-l: 29px;
   --font-size-m: 24px;
   --font-size-s: 20px;
@@ -27,7 +27,7 @@
   --font-size-xs: 16px;
   --font-size-xxl: 32px;
   --font-size-xxxl: 40px;
-
+ 
   --font-family-gotham-regular: "Gotham-Regular", Helvetica;
   --font-family-open_sans-regular: "Open Sans-Regular", Helvetica;
   --font-family-open_sans-semibold: "Open Sans-SemiBold", Helvetica;
@@ -35,21 +35,6 @@
   --font-family-ubuntu: "Ubuntu", Helvetica;
   --font-family-ubuntu-light: "Ubuntu-Light", Helvetica;
 }
-.gotham-normal-black-24px {
-  color: var(--black);
-  font-family: var(--font-family-gotham-regular);
-  font-size: var(--font-size-m);
-  font-weight: 400;
-  font-style: normal;
-}
-.gotham-normal-green-24px {
-  color: var(--pelorous);
-  font-family: var(--font-family-gotham-regular);
-  font-size: var(--font-size-m);
-  font-weight: 400;
-  font-style: normal;
-}
-
 .ubuntu-normal-green-vogue-16px {
   color: var(--green-vogue);
   font-family: var(--font-family-ubuntu);
@@ -58,7 +43,7 @@
   font-weight: 400;
 }
 
-.estilo-listado {
+.ubuntu-bold-blue-zodiac-20px {
   color: var(--blue-zodiac);
   font-family: var(--font-family-ubuntu);
   font-size: var(--font-size-s);
@@ -74,7 +59,7 @@
   font-weight: 500;
 }
 
-.estilo-listadoRespuesta {
+.ubuntu-normal-abbey-20px {
   color: var(--abbey);
   font-family: var(--font-family-ubuntu);
   font-size: var(--font-size-s);
@@ -147,7 +132,7 @@
 }
 
 .ubuntu-normal-green-vogue-24px {
-  color: var(--pelorous);
+  color: var(--green-vogue);
   font-family: var(--font-family-ubuntu);
   font-size: var(--font-size-m);
   font-style: normal;
@@ -209,15 +194,8 @@
   font-style: normal;
   font-weight: 400;
 }
-.ubuntu-normal-blue-zodiac-16px {
-  color: var(--blue-zodiac);
-  font-family: var(--font-family-ubuntu);
-  font-size: var(--font-size-xs);
-  font-style: normal;
-  font-weight: 400;
-}
 
-.estilo-tituloPrincipal {
+.ubuntu-bold-green-vogue-32px {
   color: var(--green-vogue);
   font-family: var(--font-family-ubuntu);
   font-size: var(--font-size-xxl);
@@ -232,13 +210,6 @@
   font-style: normal;
   font-weight: 700;
 }
-.ubuntu-bold-blue-zodiac-20px {
-  color: var(--blue-zodiac);
-  font-family: var(--font-family-ubuntu);
-  font-size: var(--font-size-s);
-  font-style: normal;
-  font-weight: 700;
-}
 
 .opensans-regular-normal-abbey-20px {
   color: var(--abbey);
@@ -248,7 +219,7 @@
   font-weight: 400;
 }
 
-.estilo-parrafo {
+.ubuntu-normal-pelorous-24px {
   color: var(--pelorous);
   font-family: var(--font-family-ubuntu);
   font-size: var(--font-size-m);
