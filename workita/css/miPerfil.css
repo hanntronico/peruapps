@@ -1,0 +1,224 @@
+.container-principal {
+  background-color: #cddcdc;
+  background-image: radial-gradient(
+      at 50% 100%,
+      rgba(255, 255, 255, 0.5) 0%,
+      rgba(0, 0, 0, 0.5) 100%
+    ),
+    linear-gradient(
+      to bottom,
+      rgba(255, 255, 255, 0.25) 0%,
+      rgba(0, 0, 0, 0.25) 100%
+    );
+  background-blend-mode: screen, overlay;
+  width: 367px !important;
+  height: 1026px;
+}
+body {
+  height: auto;
+}
+
+a {
+  text-decoration: none;
+}
+
+.caja-2 {
+  background-image: linear-gradient(15deg, #13547a 0%, #80d0c7 100%);
+}
+
+header .menu_bar {
+  color: #339698;
+}
+header .menu_bar a {
+  color: #339698;
+  text-decoration: none;
+}
+header .menu_bar a span.icono-notificacion {
+  color: #B8B8B8;
+}
+
+.badge-custom{
+  background-color: #339698;
+  margin-top: 38px;
+}
+header nav {
+  background: teal;
+  z-index: 1000;
+  max-width: 1000px;
+  display: none;
+  width: 95%;
+  margin: 20px auto;
+}
+header nav ul {
+  list-style: none;
+}
+header nav ul li {
+  display: inline-block;
+  position: relative;
+}
+header nav ul li a {
+  color: #fff;
+  display: block;
+  text-decoration: none;
+  padding: 20px;
+}
+
+@media screen and (max-width: 425px) {
+  body {
+    padding-top: 80px;
+  }
+
+  .menu_bar {
+    display: block;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    background: teal;
+  }
+
+  header .menu_bar .btn-menu {
+    display: block;
+    padding: 20px;
+    color: #fff;
+    overflow: hidden;
+    font-size: 25px;
+    font-weight: bold;
+    text-decoration: none;
+  }
+
+  header nav {
+    width: 85%;
+    height: calc(100% - 80px);
+    position: fixed;
+    right: 100%;
+    margin: 0;
+    overflow: scroll;
+  }
+
+  header nav ul li {
+    display: block;
+  }
+}
+
+.scrollcards {
+  margin-top: 10%;
+  overflow: auto;
+  white-space: nowrap;
+  text-align: center;
+  width: 100%;
+}
+.scrollcards .card-custom {
+  overflow: hidden;
+  word-wrap: break-word;
+  box-sizing: border-box;
+  margin-bottom: 4%;
+  margin-left: 4%;
+  display: inline-block;
+  padding: 11px;
+  border-radius: 10px;
+  word-break: break-all;
+}
+
+.scrollmenu .card-custom i {
+  font-size: 20px;
+}
+.tituloMedidor{
+  color: #339698;
+
+}
+
+.subirCV {
+  border: 1px dashed #b8b8b8;
+  margin: 0 auto;
+}
+.tuCV{
+  display: grid;
+  justify-content: centers;
+}
+.tuCV h5{
+  color: #339698;
+  font-style: normal;
+  font-weight: 300;
+}
+.listaCv{
+  list-style: none;
+}
+
+.bi-file-earmark{
+  margin-top: -6px;
+}
+
+.bi-download {
+  color: #339698;
+ 
+}
+.bi-pencil{
+  color: #339698;
+
+}
+
+.btn-descarga button{
+  color: #616161;
+  font-weight: 400;
+  font-size: 12px;
+}
+
+.ui-widgets {
+  position: relative;
+  display: inline-block;
+  width: 60px;
+  height: 60px;
+  border-radius: 30px;
+  margin: 2px;
+  border: 6px solid #339698;
+  border-left-color: #339698;
+  border-bottom-color: transparent;
+  text-align: center;
+  box-sizing: border-box;
+}
+
+.ui-widgets .ui-values {
+  top: 14px;
+  position: absolute;
+  left: 5px;
+  right: 0;
+  font-weight: 700;
+  font-size: 13px;
+  color: #8a8888;
+}
+
+.imagenPerfil {
+  width: 24%;
+  margin: 0 auto;
+  /* float: left; */
+}
+
+.imagenPerfil img {
+  width: 65px;
+  height: auto;
+  border-radius: 50%;
+}
+
+.icono{
+  display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 4px;
+gap: 3px;
+position: absolute;
+width: 32px;
+height: 32px;
+left: 50%;
+margin-top: -23px;
+background: #FFFFFF;
+border-radius: 16px;
+}
+
+.name-perfil{
+  line-height: 7px;
+}
+.name-perfil p{
+  font-size: 14px;
+}
+
