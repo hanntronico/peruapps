@@ -12,7 +12,8 @@
     );
   background-blend-mode: screen, overlay;
   width: 367px !important;
-  height: 1026px;
+  height: 661px;
+  overflow: scroll;
 }
 body {
   height: auto;
@@ -148,10 +149,7 @@ header nav ul li a {
   margin-top: -6px;
 }
 
-.bi-download {
-  color: #339698;
- 
-}
+
 .bi-pencil{
   color: #339698;
 
@@ -190,7 +188,6 @@ header nav ul li a {
 .imagenPerfil {
   width: 24%;
   margin: 0 auto;
-  /* float: left; */
 }
 
 .imagenPerfil img {
@@ -199,21 +196,12 @@ header nav ul li a {
   border-radius: 50%;
 }
 
-.icono{
-  display: flex;
-flex-direction: row;
-justify-content: center;
-align-items: center;
-padding: 4px;
-gap: 3px;
-position: absolute;
-width: 32px;
-height: 32px;
-left: 50%;
-margin-top: -23px;
-background: #FFFFFF;
-border-radius: 16px;
+.imagen12{
+  position: relative;
+  margin-top: -73px;
+  left: 17px;
 }
+
 
 .name-perfil{
   line-height: 7px;
@@ -221,4 +209,79 @@ border-radius: 16px;
 .name-perfil p{
   font-size: 14px;
 }
+.bi-whatsapp{
+  color: #339698;
+}
 
+.texto-resumen{
+  color: #616161;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 130%;
+}
+
+.editar-perfil{
+  margin-top: -46px;
+}
+
+.icono-edit1{
+  width: 32px !important;
+  height: 32px ;
+  padding: 4px !important;
+}
+
+.detalles-perfil{
+  color: #616161;
+}
+.detalles-perfil h5{
+  color: #616161;
+  font-weight: 500;
+}
+ .direcion-perfil{
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 300;
+}
+.lista-perfil{
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 300;
+}
+.lista-tab{
+  list-style: none;
+}
+.info-formacion p{
+  color: #616161;
+  font-size: 14px;
+}
+.diomas{
+  font-size: 14px;
+}
+.idioma-1{
+  color: #616161;
+}
+.nivel-idioma{
+  color: #339698;
+}
+.lista-aptitudes{
+  font-size: 14px;
+  width: 120%;
+}
+.span-oscuro{
+  color: #616161;
+}
+.span-green{
+  color: #339698;
+}
+.titulo-aptitudes{
+  color: #616161;
+}
+.aptitudes-respuesta{
+  color: #616161;
+  font-size: 14px;
+  font-weight: 300;
+}
+.cursos-certifica{
+  width: 173%;
+}
