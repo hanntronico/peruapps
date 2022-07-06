@@ -13,7 +13,7 @@
   background-blend-mode: screen, overlay;
   width: 367px !important;
   height: 661px;
-  overflow: scroll;
+  overflow-x: hidden;
 }
 body {
   height: auto;
@@ -103,11 +103,11 @@ header nav ul li a {
 
 .scrollcards {
   margin-top: 10%;
-  overflow: auto;
   white-space: nowrap;
   text-align: center;
   width: 100%;
 }
+
 .scrollcards .card-custom {
   overflow: hidden;
   word-wrap: break-word;
@@ -120,8 +120,14 @@ header nav ul li a {
   word-break: break-all;
 }
 
+.flickity-prev-next-button { display: none; }
+
 .scrollmenu .card-custom i {
   font-size: 20px;
+}
+
+.flickity-page-dots .dot{
+  background-color: #339698 !important;
 }
 .tituloMedidor{
   color: #339698;
@@ -285,3 +291,10 @@ header nav ul li a {
 .cursos-certifica{
   width: 173%;
 }
+
+/* .scrollcards .card-custom {
+  width: 66%;
+  height: 200px;
+  margin-right: 12px;
+  counter-increment: card-custom;
+} */
