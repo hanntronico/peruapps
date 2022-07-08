@@ -8,6 +8,7 @@
   <link rel="stylesheet" href="css/miPerfil.css" />
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" />
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.3/font/bootstrap-icons.css" />
+  <link rel="stylesheet" href="https://unpkg.com/flickity@2/dist/flickity.min.css">
   <title>Document</title>
 </head>
 
@@ -49,7 +50,7 @@
     </div>
     <div class="container">
       <div class="row">
-        <div class="scrollcards">
+        <div class="scrollcards js-flickity" data-flickity-options='{ "wrapAround": false }'>
           <div class="col-6 card-custom border border-1 border-white rounded-4 w-75">
             <div class="container text-center">
               <h5 class="tituloMedidor">Medidor Workita</h5>
@@ -84,7 +85,7 @@
         </div>
       </div>
     </div>
-    <div class="container mt-3">
+    <div class="container mt-5">
       <div class="tuCV border border-1 border-white rounded-4 mb-3">
         <h5 class="text-center mt-3">Tu CV</h5>
         <div class="subirCV rounded-4 mb-4 w-75">
@@ -117,7 +118,7 @@
           </div>
           <div class="fotoPerfil mb-5">
             <div class="imagenPerfil">
-              <img class="text-center" src="http://via.placeholder.com/10" alt="">
+              <img class="text-center" src="img/Foto.png" alt="">
               <img src="img/Editar.png" class="mx-5 w-50 editar-perfil" alt="">
 
             </div>
@@ -579,6 +580,7 @@
     integrity="sha384-kjU+l4N0Yf4ZOJErLsIcvOU2qSb74wXpOhqTvwVx3OElZRweTnQ6d31fXEoRD1Jy" crossorigin="anonymous">
   </script>
   <script src="js/miPerfil.js"></script>
+  <script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.min.js"></script>
 </body>
 
 </html>
